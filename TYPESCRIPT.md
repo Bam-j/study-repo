@@ -21,8 +21,7 @@
 3-3. [순수 함수와 readonly](https://bamtory29.tistory.com/entry/Typescript-readonly%EC%99%80-%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98?category=1031311) <br/>
 
 ### 번외
-
----
+[Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
 
 ---
 [블로그 타입스크립트 카테고리](https://bamtory29.tistory.com/category/Programming/Typescript?page=1) <br/>

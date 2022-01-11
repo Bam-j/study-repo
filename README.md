@@ -6,14 +6,14 @@
 ---
 ## 목록
 ### [Language]
-####- [HTML]() <br/>
-####- [CSS]() <br/>
-####- [Javascirpt]() <br/>
-####- [Typescript]() <br/>
+####- [HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>
+####- [CSS](https://github.com/Bam-j/study-repo/blob/main/CSS.md) <br/>
+####- [Javascirpt](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
+####- [Typescript](https://github.com/Bam-j/study-repo/blob/main/TYPESCRIPT.md) <br/>
 ####- [React](https://github.com/Bam-j/react-study/blob/main/README.md) <br/>
 ####- [Node.js](https://github.com/Bam-j/node-study/blob/main/README.md) <br/>
 
 ### [skill]
-####- [Git]() <br/>
-####- [Data Structure]() <br/>
-####- [Algorithm]() <br/>
+####- [Git](https://github.com/Bam-j/study-repo/blob/main/GIT.md) <br/>
+####- [준비중!][Data Structure]() <br/>
+####- [준비중!][Algorithm]() <br/>

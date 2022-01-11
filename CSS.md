@@ -20,4 +20,8 @@ HTML에 다양한 효과를 부여해주는 CSS입니다.
 3-4. [박스 모델](https://bamtory29.tistory.com/entry/CSS-%EB%B0%95%EC%8A%A4-%EB%AA%A8%EB%8D%B8?category=923994) <br/>
 3-5. [박스 모델 너비](https://bamtory29.tistory.com/entry/CSS-%EB%B0%95%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%98-%EB%84%88%EB%B9%84?category=923994) <br/>
 
+### 번외
+[HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>
+[Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
+
 ---

@@ -1,5 +1,8 @@
 # Javascript
 HTML과 CSS를 통해 만들어진 웹사이트에 동작을 불어 넣는 자바스크립트를 소개합니다. <br/>
+```ecmascript 6
+console.log('Hello world!');
+```
 
 ---
 ### 1. 자바스크립트 시작하기
@@ -74,6 +77,7 @@ HTML과 CSS를 통해 만들어진 웹사이트에 동작을 불어 넣는 자�
 6-12. [내장 객체 Date](https://bamtory29.tistory.com/entry/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-Date-%EA%B0%9D%EC%B2%B4?category=924733) <br/>
 6-13. [내장 객체 RegExp](https://bamtory29.tistory.com/entry/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-RegExp?category=924733) <br/>
 6-14. [Promise 객체](https://bamtory29.tistory.com/entry/Javascript-%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4promise-%EA%B0%9D%EC%B2%B4?category=924733) <br/>
+6-15. [Iterator, Generator](https://bamtory29.tistory.com/entry/Javascript-Iterator%EB%B0%98%EB%B3%B5%EC%9E%90-Generator%EB%B0%9C%EC%83%9D%EC%9E%90) <br/>
 
 ### 7. 프로토타입과 클래스
 7-1. [프로토타입](https://bamtory29.tistory.com/entry/Javascript-%EA%B0%9D%EC%B2%B4%EC%99%80-%ED%81%B4%EB%9E%98%EC%8A%A4?category=924733) <br/>
@@ -108,7 +112,7 @@ HTML과 CSS를 통해 만들어진 웹사이트에 동작을 불어 넣는 자�
 ### 다른 글들
 사용자 인터페이스를 위한 [리액트 라이브러리](https://github.com/Bam-j/react-study/blob/main/README.md) <br/>
 다양한 자바스크립트 개발을 위한 [Node.js 플랫폼](https://github.com/Bam-j/node-study/blob/main/README.md) <br/>
-엄격한 타입 관리를 하는 자바스크립트 슈퍼셋 [Typescript]()
+엄격한 타입 관리를 하는 자바스크립트 슈퍼셋 [Typescript](https://github.com/Bam-j/study-repo/blob/main/TYPESCRIPT.md)
 
 ---
 [블로그 자바스크립트 카테고리 링크](https://bamtory29.tistory.com/category/Programming/Javascript) <br/>

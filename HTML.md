@@ -28,8 +28,8 @@
 3-2. [시맨틱 태그](https://bamtory29.tistory.com/entry/HTML-%EC%8B%9C%EB%A7%A8%ED%8B%B1-%ED%83%9C%EA%B7%B8%EB%93%A4?category=923994) <br/>
 
 ### 번외.
-[CSS]() <br/>
-[javascript]() <br/>
+[CSS](https://github.com/Bam-j/study-repo/blob/main/CSS.md) <br/>
+[javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
 
 ---
 [블로그 HTML 카테고리 이동](https://bamtory29.tistory.com/category/Programming/HTML,%20CSS?page=1) <br/>

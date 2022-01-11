@@ -2,7 +2,6 @@
 블로그에 공부한 글(링크)들을 총망라 해두었습니다. <br/>
 깃허브를 통해서 카테고리를 한 눈에 편하게 이동할 수 있도록 리포지토리를 따로 생성하게 되었습니다.
 
-
 ---
 ## 목록
 ### [Language]
@@ -17,3 +16,4 @@
 ####- [Git](https://github.com/Bam-j/study-repo/blob/main/GIT.md) <br/>
 ####- [준비중!][Data Structure]() <br/>
 ####- [준비중!][Algorithm]() <br/>
+

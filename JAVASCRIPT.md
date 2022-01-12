@@ -104,6 +104,7 @@ console.log('Hello world!');
 9-4. [XMLHttpRequest](https://bamtory29.tistory.com/entry/Javascript-XMLHttpRequest?category=924733) <br/>
 9-5. [Fetch API](https://bamtory29.tistory.com/entry/Javascript-Fetch-API?category=924733) <br/>
 9-6. [웹 스토리지](https://bamtory29.tistory.com/entry/Javascript-%EC%9B%B9-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-Web-Storage?category=924733) <br/>
+9-10. [자바스크립트 테스트 프레임워크, Jasmine](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC-Jasmine) <br/>
 
 ### 번외
 [코딩 컨벤션](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98?category=924733) <br/>

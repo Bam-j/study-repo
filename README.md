@@ -14,6 +14,7 @@
 
 ### [skill]
 #### - [Git](https://github.com/Bam-j/study-repo/blob/main/GIT.md) <br/>
+#### - [Database]() <br/>
 #### - [준비중!][Data Structure]() <br/>
 #### - [준비중!][Algorithm]() <br/>
 

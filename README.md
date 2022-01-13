@@ -13,8 +13,10 @@
 #### - [Node.js](https://github.com/Bam-j/node-study/blob/main/README.md) <br/>
 
 ### [skill]
+#### - [Computer Science]() <br/>
 #### - [Git](https://github.com/Bam-j/study-repo/blob/main/GIT.md) <br/>
-#### - [Database]() <br/>
-#### - [준비중!][Data Structure]() <br/>
-#### - [준비중!][Algorithm]() <br/>
+#### - [Database](https://github.com/Bam-j/study-repo/blob/main/DATABASE.md) <br/>
+#### - [준비중!] [Data Structure]() <br/>
+#### - [준비중!] [Algorithm]() <br/>
+#### - [준비중!] [Design Pattern]() <br/>
 

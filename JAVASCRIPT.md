@@ -57,10 +57,11 @@ console.log('Hello world!');
 5-3. [Function 생성자](https://bamtory29.tistory.com/entry/Javascript-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%ED%95%A8%EC%88%98-2-Function-%EC%83%9D%EC%84%B1%EC%9E%90?category=924733) <br/>
 5-4. [익명 함수](https://bamtory29.tistory.com/entry/Javascript-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%ED%95%A8%EC%88%98-3-%ED%95%A8%EC%88%98-%EB%A6%AC%ED%84%B0%EB%9F%B4-%EC%9D%B5%EB%AA%85-%ED%95%A8%EC%88%98?category=924733) <br/>
 5-5. [화살표 함수](https://bamtory29.tistory.com/entry/Javascript-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%ED%95%A8%EC%88%98-4-%EC%95%A0%EB%A1%9C%EC%9A%B0-%ED%95%A8%EC%88%98?category=924733) <br/>
-5-6. [함수에서 여러 개의 값 반환하기](https://bamtory29.tistory.com/entry/Javascript-%ED%95%A8%EC%88%98%EC%97%90%EC%84%9C-%EC%97%AC%EB%9F%AC-%EA%B0%92-%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0?category=924733) <br/>
-5-7. [재귀 함수](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%AC%EA%B7%80-%ED%95%A8%EC%88%98?category=924733) <br/>
-5-8. [인수와 인자](https://bamtory29.tistory.com/entry/%EC%9D%B8%EC%88%98%EC%99%80-%EC%9D%B8%EC%9E%90-Argument-Parameter?category=924733) <br/>
-5-9. [기본값 함수 매개변수](https://bamtory29.tistory.com/entry/Javascript-default-function-parameter?category=924733) <br/>
+5-6. [각 함수 선언법의 동작 차이](https://bamtory29.tistory.com/entry/Javascript-function-%EB%AA%85%EB%A0%B9%EA%B3%BC-Function-%EB%AA%85%EB%A0%B9%ED%95%A8%EC%88%98-%EB%A6%AC%ED%84%B0%EB%9F%B4) <br/>
+5-7. [함수에서 여러 개의 값 반환하기](https://bamtory29.tistory.com/entry/Javascript-%ED%95%A8%EC%88%98%EC%97%90%EC%84%9C-%EC%97%AC%EB%9F%AC-%EA%B0%92-%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0?category=924733) <br/>
+5-8. [재귀 함수](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%AC%EA%B7%80-%ED%95%A8%EC%88%98?category=924733) <br/>
+5-9. [인수와 인자](https://bamtory29.tistory.com/entry/%EC%9D%B8%EC%88%98%EC%99%80-%EC%9D%B8%EC%9E%90-Argument-Parameter?category=924733) <br/>
+5-10. [기본값 함수 매개변수](https://bamtory29.tistory.com/entry/Javascript-default-function-parameter?category=924733) <br/>
 
 ### 6. 객체
 6-1. [객체 소개](https://bamtory29.tistory.com/entry/Javascript-%EA%B0%9D%EC%B2%B4?category=924733) <br/>
@@ -77,7 +78,8 @@ console.log('Hello world!');
 6-12. [내장 객체 Date](https://bamtory29.tistory.com/entry/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-Date-%EA%B0%9D%EC%B2%B4?category=924733) <br/>
 6-13. [내장 객체 RegExp](https://bamtory29.tistory.com/entry/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-RegExp?category=924733) <br/>
 6-14. [Promise 객체](https://bamtory29.tistory.com/entry/Javascript-%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4promise-%EA%B0%9D%EC%B2%B4?category=924733) <br/>
-6-15. [Iterator, Generator](https://bamtory29.tistory.com/entry/Javascript-Iterator%EB%B0%98%EB%B3%B5%EC%9E%90-Generator%EB%B0%9C%EC%83%9D%EC%9E%90) <br/>
+6-15. [Proxy 객체](https://bamtory29.tistory.com/entry/Javascript-Proxy-%EA%B0%9D%EC%B2%B4) <br/>
+6-16. [Iterator, Generator](https://bamtory29.tistory.com/entry/Javascript-Iterator%EB%B0%98%EB%B3%B5%EC%9E%90-Generator%EB%B0%9C%EC%83%9D%EC%9E%90) <br/>
 
 ### 7. 프로토타입과 클래스
 7-1. [프로토타입](https://bamtory29.tistory.com/entry/Javascript-%EA%B0%9D%EC%B2%B4%EC%99%80-%ED%81%B4%EB%9E%98%EC%8A%A4?category=924733) <br/>
@@ -104,7 +106,7 @@ console.log('Hello world!');
 9-4. [XMLHttpRequest](https://bamtory29.tistory.com/entry/Javascript-XMLHttpRequest?category=924733) <br/>
 9-5. [Fetch API](https://bamtory29.tistory.com/entry/Javascript-Fetch-API?category=924733) <br/>
 9-6. [웹 스토리지](https://bamtory29.tistory.com/entry/Javascript-%EC%9B%B9-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-Web-Storage?category=924733) <br/>
-9-10. [자바스크립트 테스트 프레임워크, Jasmine](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC-Jasmine) <br/>
+9-7. [자바스크립트 테스트 프레임워크, Jasmine](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC-Jasmine) <br/>
 
 ### 번외  
 - [코딩 컨벤션](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98?category=924733) <br/>

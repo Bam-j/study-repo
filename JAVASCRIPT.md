@@ -43,12 +43,12 @@ console.log('Hello world!');
 
 ### 4. 제어구문
 4-1. [조건문 if, if~else, else](https://bamtory29.tistory.com/entry/Javascript-%EC%A1%B0%EA%B1%B4%EB%AC%B8?category=924733) <br/>
-4-2. [분기문 swtich~case](https://bamtory29.tistory.com/entry/Javascript-%EB%B6%84%EA%B8%B0%EB%AC%B8%EC%84%A0%ED%83%9D%EB%AC%B8?category=924733) <br/>
+4-2. [분기문 switch~case](https://bamtory29.tistory.com/entry/Javascript-%EB%B6%84%EA%B8%B0%EB%AC%B8%EC%84%A0%ED%83%9D%EB%AC%B8?category=924733) <br/>
 4-3. [반복문1 while, do~while](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8-1-while-dowhile?category=924733) <br/>
 4-4. [반복문2 for](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8-2-for%EB%AC%B8?category=924733) <br/>
 4-5. [반복문3 for~in](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8-3-forin?category=924733) <br/>
 4-6. [반복문4 for~of](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8-4-forof?category=924733) <br/>
-4-7. [반복문5 coninue, break, label](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%98-%EC%A0%9C%EC%96%B4-continuebreak-%EB%A0%88%EC%9D%B4%EB%B8%94?category=924733) <br/>
+4-7. [반복문5 continue, break, label](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%98-%EC%A0%9C%EC%96%B4-continuebreak-%EB%A0%88%EC%9D%B4%EB%B8%94?category=924733) <br/>
 4-8. [예외 처리](https://bamtory29.tistory.com/entry/Javascript-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-trycatchfinally?category=924733) <br/>
 
 ### 5. 함수
@@ -61,7 +61,8 @@ console.log('Hello world!');
 5-7. [함수에서 여러 개의 값 반환하기](https://bamtory29.tistory.com/entry/Javascript-%ED%95%A8%EC%88%98%EC%97%90%EC%84%9C-%EC%97%AC%EB%9F%AC-%EA%B0%92-%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0?category=924733) <br/>
 5-8. [재귀 함수](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%AC%EA%B7%80-%ED%95%A8%EC%88%98?category=924733) <br/>
 5-9. [인수와 인자](https://bamtory29.tistory.com/entry/%EC%9D%B8%EC%88%98%EC%99%80-%EC%9D%B8%EC%9E%90-Argument-Parameter?category=924733) <br/>
-5-10. [기본값 함수 매개변수](https://bamtory29.tistory.com/entry/Javascript-default-function-parameter?category=924733) <br/>
+5-10. [명명된 인수](https://bamtory29.tistory.com/entry/Javascript-%EB%AA%85%EB%AA%85%EB%90%9C-%EC%9D%B8%EC%88%98) <br/>
+5-11. [기본값 함수 매개변수](https://bamtory29.tistory.com/entry/Javascript-default-function-parameter?category=924733) <br/>
 
 ### 6. 객체
 6-1. [객체 소개](https://bamtory29.tistory.com/entry/Javascript-%EA%B0%9D%EC%B2%B4?category=924733) <br/>

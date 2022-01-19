@@ -9,6 +9,7 @@
 1-4. [관계형 데이터베이스 용어](https://bamtory29.tistory.com/entry/%EA%B4%80%EA%B3%84%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC) <br/>
 
 ### 2. MySQL
+2-1. [MySQL 소개](https://bamtory29.tistory.com/entry/MySQL-MySQL)
 
 ### 3. NoSQL
 

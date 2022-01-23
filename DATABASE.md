@@ -15,6 +15,7 @@
 2-4. [데이터 조작문 1](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%EC%9E%91%EB%AC%B8-DML) <br/>
 2-5. [데이터 조작문 2 - JOIN](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%EC%9E%91%EB%AC%B8-DML-JOIN) <br/>
 2-6. [데이터 조작문 3](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%EC%9E%91%EB%AC%B8-DML-UNION-SUB-QUERY) <br/>
+2-7. [데이터 제어문](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%9C%EC%96%B4%EB%AC%B8-DCL) <br/>
 
 ### 3. NoSQL
 

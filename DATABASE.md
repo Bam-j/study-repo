@@ -10,10 +10,11 @@
 
 ### 2. MySQL
 2-1. [MySQL 소개](https://bamtory29.tistory.com/entry/MySQL-MySQL) <br/>
-2-2. [데이터 정의문](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%5%EC%9D%98%EB%AC%B8-DDL) <br/>
-2-3. [데이터 조작문 1](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%EC%9E%91%EB%AC%B8-DML) <br/>
-2-4. [데이터 조작문 2 - JOIN](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%EC%9E%91%EB%AC%B8-DML-JOIN) <br/>
-2-5. [데이터 조작문 3](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%EC%9E%91%EB%AC%B8-DML-UNION-SUB-QUERY) <br/>
+2-2. [MySQL 주석](https://bamtory29.tistory.com/entry/MySQL-%EC%A3%BC%EC%84%9D) <br/>
+2-3. [데이터 정의문](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%5%EC%9D%98%EB%AC%B8-DDL) <br/>
+2-4. [데이터 조작문 1](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%EC%9E%91%EB%AC%B8-DML) <br/>
+2-5. [데이터 조작문 2 - JOIN](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%EC%9E%91%EB%AC%B8-DML-JOIN) <br/>
+2-6. [데이터 조작문 3](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%EC%9E%91%EB%AC%B8-DML-UNION-SUB-QUERY) <br/>
 
 ### 3. NoSQL
 

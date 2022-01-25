@@ -17,6 +17,7 @@
 2-6. [데이터 조작문 3](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%EC%9E%91%EB%AC%B8-DML-UNION-SUB-QUERY) <br/>
 2-7. [데이터 제어문](https://bamtory29.tistory.com/entry/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%9C%EC%96%B4%EB%AC%B8-DCL) <br/>
 2-8. [숫자 타입](https://bamtory29.tistory.com/entry/MySQL-%EC%88%AB%EC%9E%90-%ED%83%80%EC%9E%85) <br/>
+2-9. [문자열 타입, 시간 타입](https://bamtory29.tistory.com/entry/MySQL-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%83%80%EC%9E%85) <br/>
 
 ### 3. NoSQL
 

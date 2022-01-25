@@ -15,3 +15,4 @@
 ### - [SPA, Single Page Application](https://bamtory29.tistory.com/entry/SPA-Single-Page-Application?category=1013352) <br/>
 ### - [명령형 프로그래밍, 선언형 프로그래밍](https://bamtory29.tistory.com/entry/%EB%AA%85%EB%A0%B9%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%EC%84%A0%EC%96%B8%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D?category=1013352) <br/>
 ### - [함수형 프로그래밍](https://bamtory29.tistory.com/entry/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D?category=1013352) <br/>
+### - [디자인 패턴과 SOLID 5원칙](https://bamtory29.tistory.com/entry/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4?category=1008845) <br/>

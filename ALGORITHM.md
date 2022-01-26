@@ -19,5 +19,9 @@
 - [[검색] 이진 검색](https://bamtory29.tistory.com/entry/%EC%9D%B4%EC%A7%84-%EA%B2%80%EC%83%89?category=1017098) <br/>
 - [[검색] 브루트 포스법](https://bamtory29.tistory.com/entry/%EB%B8%8C%EB%A3%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4-%EB%B2%95) <br/>
 - [[검색] Boyer-Moore법](https://bamtory29.tistory.com/entry/Boyer-Moore-%EB%B2%95?category=1017098) <br/>
+- [[검색] 해시](https://bamtory29.tistory.com/entry/Javascript-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94?category=993790) <br/>
+- [[검색] 해시 충돌 해결](https://bamtory29.tistory.com/entry/Javascript-%ED%95%B4%EC%8B%9C-%EC%B6%A9%EB%8F%8C%EC%9D%98-%ED%95%B4%EA%B2%B0?category=993790) <br/>
+
 ### 2. 코딩테스트 연습
+
 ### 3. 기타 문제

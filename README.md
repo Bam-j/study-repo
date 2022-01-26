@@ -6,7 +6,7 @@
 ## [Language]
 ### - [HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>
 ### - [CSS](https://github.com/Bam-j/study-repo/blob/main/CSS.md) <br/>
-### - [Javascirpt](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
+### - [Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
 ### - [Typescript](https://github.com/Bam-j/study-repo/blob/main/TYPESCRIPT.md) <br/>
 ### - [React](https://github.com/Bam-j/react-study/blob/main/README.md) <br/>
 ### - [Node.js](https://github.com/Bam-j/node-study/blob/main/README.md) <br/>
@@ -15,7 +15,7 @@
 ### - [Computer Science](https://github.com/Bam-j/study-repo/blob/main/CS.md) <br/>
 ### - [Git](https://github.com/Bam-j/study-repo/blob/main/GIT.md) <br/>
 ### - [Database](https://github.com/Bam-j/study-repo/blob/main/DATABASE.md) <br/>
-### - [준비중!] [Data Structure]() <br/>
-### - [준비중!] [Algorithm]() <br/>
+### - [Data Structure](https://github.com/Bam-j/study-repo/blob/main/DATA_STRUCTURE.md) <br/>
+### - [Algorithm](https://github.com/Bam-j/study-repo/blob/main/ALGORITHM.md) <br/>
 ### - [Design Pattern](https://github.com/Bam-j/study-repo/blob/main/DESIGN_PATTERN.md) <br/>
 

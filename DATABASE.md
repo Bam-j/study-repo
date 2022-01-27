@@ -20,5 +20,7 @@
 2-9. [문자열 타입, 시간 타입](https://bamtory29.tistory.com/entry/MySQL-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%83%80%EC%9E%85) <br/>
 
 ### 3. NoSQL
+2-1. [MongoDB 소개](https://bamtory29.tistory.com/entry/MongoDB-%EB%AA%BD%EA%B3%A0DB) <br/>
+2-2. [BSON](https://bamtory29.tistory.com/entry/MongoDB-BSON?category=1027890) <br/>
 
 ---

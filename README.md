@@ -1,6 +1,7 @@
 # study-repo
-블로그에 공부한 글(링크)들을 총망라 해두었습니다. <br/>
-깃허브를 통해서 카테고리를 한 눈에 편하게 이동할 수 있도록 리포지토리를 따로 생성하게 되었습니다.
+- 블로그에 공부하며 작성했던 포스트들의 링크를 정리해서 모아두었습니다.
+- 깃허브를 통해서 카테고리를 한 눈에 편하게 이동할 수 있도록 리포지토리를 따로 생성하게 되었습니다.
+- 모든 항목들은 지속적으로 업데이트 및 개선을 하고있습니다.
 
 ---
 ## [Language]
@@ -10,6 +11,8 @@
 ### - [Typescript](https://github.com/Bam-j/study-repo/blob/main/TYPESCRIPT.md) <br/>
 ### - [React](https://github.com/Bam-j/react-study/blob/main/README.md) <br/>
 ### - [Node.js](https://github.com/Bam-j/node-study/blob/main/README.md) <br/>
+
+<br/>
 
 ## [skill]
 ### - [Computer Science](https://github.com/Bam-j/study-repo/blob/main/CS.md) <br/>

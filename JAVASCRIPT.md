@@ -63,6 +63,7 @@ console.log('Hello world!');
 5-9. [인수와 인자](https://bamtory29.tistory.com/entry/%EC%9D%B8%EC%88%98%EC%99%80-%EC%9D%B8%EC%9E%90-Argument-Parameter?category=924733) <br/>
 5-10. [명명된 인수](https://bamtory29.tistory.com/entry/Javascript-%EB%AA%85%EB%AA%85%EB%90%9C-%EC%9D%B8%EC%88%98) <br/>
 5-11. [기본값 함수 매개변수](https://bamtory29.tistory.com/entry/Javascript-default-function-parameter?category=924733) <br/>
+5-12. [클로저](https://bamtory29.tistory.com/entry/Javascript-Closure) <br/>
 
 ### 6. 객체
 6-1. [객체 소개](https://bamtory29.tistory.com/entry/Javascript-%EA%B0%9D%EC%B2%B4?category=924733) <br/>

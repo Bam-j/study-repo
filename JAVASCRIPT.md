@@ -79,9 +79,10 @@ console.log('Hello world!');
 6-11. [내장 객체 Set](https://bamtory29.tistory.com/entry/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-Set?category=924733) <br/>
 6-12. [내장 객체 Date](https://bamtory29.tistory.com/entry/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-Date-%EA%B0%9D%EC%B2%B4?category=924733) <br/>
 6-13. [내장 객체 RegExp](https://bamtory29.tistory.com/entry/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-RegExp?category=924733) <br/>
-6-14. [Promise 객체](https://bamtory29.tistory.com/entry/Javascript-%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4promise-%EA%B0%9D%EC%B2%B4?category=924733) <br/>
-6-15. [Proxy 객체](https://bamtory29.tistory.com/entry/Javascript-Proxy-%EA%B0%9D%EC%B2%B4) <br/>
-6-16. [Iterator, Generator](https://bamtory29.tistory.com/entry/Javascript-Iterator%EB%B0%98%EB%B3%B5%EC%9E%90-Generator%EB%B0%9C%EC%83%9D%EC%9E%90) <br/>
+6-14. [Object 객체(assign, 불변 객체)](https://bamtory29.tistory.com/entry/Javascript-Object-%EA%B0%9D%EC%B2%B4) <br/>
+6-15. [Promise 객체](https://bamtory29.tistory.com/entry/Javascript-%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4promise-%EA%B0%9D%EC%B2%B4?category=924733) <br/>
+6-16. [Proxy 객체](https://bamtory29.tistory.com/entry/Javascript-Proxy-%EA%B0%9D%EC%B2%B4) <br/>
+6-17. [Iterator, Generator](https://bamtory29.tistory.com/entry/Javascript-Iterator%EB%B0%98%EB%B3%B5%EC%9E%90-Generator%EB%B0%9C%EC%83%9D%EC%9E%90) <br/>
 
 ### 7. 프로토타입과 클래스
 7-1. [프로토타입](https://bamtory29.tistory.com/entry/Javascript-%EA%B0%9D%EC%B2%B4%EC%99%80-%ED%81%B4%EB%9E%98%EC%8A%A4?category=924733) <br/>

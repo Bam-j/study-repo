@@ -11,7 +11,7 @@ console.log('Hello world!');
 1-3. [VSCode](https://bamtory29.tistory.com/entry/JavaScript-%EC%97%90%EB%94%94%ED%84%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0?category=924733) <br/>
 1-4. [Hello world!](https://bamtory29.tistory.com/entry/JavaScript-Hello-World?category=924733) <br/>
 1-5. [자바스크립트 파일 삽입](https://bamtory29.tistory.com/entry/javascript-html-%ED%8C%8C%EC%9D%BC%EC%97%90-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0?category=924733) <br/>
-1-6. [\<script>태그의 위치](https://bamtory29.tistory.com/entry/javascript-script%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%9C%84%EC%B9%98?category=924733) <br/>
+1-6. [<script>태그의 위치](https://bamtory29.tistory.com/entry/javascript-script%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%9C%84%EC%B9%98?category=924733) <br/>
 1-7. [자바스크립트 기본 규칙](https://bamtory29.tistory.com/entry/JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EA%B7%9C%EC%B9%99?category=924733) <br/>
 1-8. [주석](https://bamtory29.tistory.com/entry/Javascript-%EC%A3%BC%EC%84%9D?category=924733) <br/>
 
@@ -50,6 +50,7 @@ console.log('Hello world!');
 4-6. [반복문4 for~of](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8-4-forof?category=924733) <br/>
 4-7. [반복문5 continue, break, label](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%98-%EC%A0%9C%EC%96%B4-continuebreak-%EB%A0%88%EC%9D%B4%EB%B8%94?category=924733) <br/>
 4-8. [예외 처리](https://bamtory29.tistory.com/entry/Javascript-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-trycatchfinally?category=924733) <br/>
+4-9. [Strict mode](https://bamtory29.tistory.com/entry/Javascript-Strict-mode) <br/>
 
 ### 5. 함수
 5-1. [함수 소개](https://bamtory29.tistory.com/entry/Javascript-%ED%95%A8%EC%88%98-function?category=924733) <br/>

@@ -23,5 +23,6 @@
 2-1. [MongoDB 소개](https://bamtory29.tistory.com/entry/MongoDB-%EB%AA%BD%EA%B3%A0DB) <br/>
 2-2. [BSON](https://bamtory29.tistory.com/entry/MongoDB-BSON?category=1027890) <br/>
 2-3. [DB, 컬렉션, 도큐먼트](https://bamtory29.tistory.com/entry/Mongo-DB-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%BB%AC%EB%A0%89%EC%85%98?category=1027890) <br/>
+2-4. [find()와 쿼리](https://bamtory29.tistory.com/entry/Mongo-DB-find%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
 
 ---

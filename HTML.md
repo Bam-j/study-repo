@@ -8,7 +8,8 @@
 ### 1. HTML 시작
 1-1. [HTML/CSS 소개](https://bamtory29.tistory.com/entry/HTMLCSS-HTML%EA%B3%BC-CSS?category=923994) <br/>
 1-2. [블록 요소와 인라인 요소](https://bamtory29.tistory.com/entry/HTMLCSS-%EB%B8%94%EB%A1%9D-%EC%9A%94%EC%86%8C%EC%99%80-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%9A%94%EC%86%8C?category=923994) <br/>
-1-3. [HTML에서 특수문자 사용하기](https://bamtory29.tistory.com/entry/HTMLCSS-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0?category=923994) <br/>
+1-3. [주석](https://velog.io/@bami/HTML-HTML-%EC%A3%BC%EC%84%9D) <br/>
+1-4. [HTML에서 특수문자 사용하기](https://bamtory29.tistory.com/entry/HTMLCSS-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0?category=923994) <br/>
 
 ### 2. HTML 태그
 2-1. [텍스트 관련 태그1](https://bamtory29.tistory.com/entry/HTML-HTML-%ED%83%9C%EA%B7%B8-%EC%A0%95%EB%A6%AC-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8-%ED%83%9C%EA%B7%B8%EB%93%A4-%EB%B8%94%EB%A1%9D-%EC%9A%94%EC%86%8C?category=923994) <br/>

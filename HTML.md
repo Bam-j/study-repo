@@ -23,6 +23,8 @@
 2-9. [폼 태그3(태그의 속성들)](https://bamtory29.tistory.com/entry/HTML-%ED%8F%BC-%EC%9A%94%EC%86%8C-3-%ED%8F%BC-%EC%9A%94%EC%86%8C%EC%9D%98-%EC%86%8D%EC%84%B1%EB%93%A4?category=923994) <br/>
 2-10. [폼 태그4(input 태그의 type)](https://bamtory29.tistory.com/entry/HTML-%ED%8F%BC-%EC%9A%94%EC%86%8C-4-input-type%EC%9D%98-%EC%86%8D%EC%84%B1-%EA%B0%92?category=923994) <br/>
 2-11. [미디어 관련 태그](https://bamtory29.tistory.com/entry/HTML-%EB%AF%B8%EB%94%94%EC%96%B4-%EA%B4%80%EB%A0%A8-%ED%83%9C%EA%B7%B8?category=923994) <br/>
+2-12. [style 태그](https://velog.io/@bami/HTML-style-%ED%83%9C%EA%B7%B8) <br/>
+2-13. [link, @import](https://velog.io/@bami/HTML-link%ED%83%9C%EA%B7%B8%EB%A1%9C-%EC%99%B8%EB%B6%80-%ED%8C%8C%EC%9D%BC-%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0) <br/>
 
 ### 3. 구조
 3-1. [div와 span](https://bamtory29.tistory.com/entry/HTML-%EA%B3%B5%EA%B0%84-%EB%B6%84%ED%95%A0-%ED%83%9C%EA%B7%B8-%EB%A0%88%EC%9D%B4%EC%96%B4-%EB%82%98%EB%88%84%EA%B8%B0-div%EC%99%80-span?category=923994) <br/>

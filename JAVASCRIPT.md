@@ -19,14 +19,15 @@ console.log('Hello world!');
 2-1. [변수 선언과 명명 규칙](https://bamtory29.tistory.com/entry/Javascript-%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8%EA%B3%BC-%EB%AA%85%EB%AA%85-%EA%B7%9C%EC%B9%99?category=924733) <br/>
 2-2. [자료형 소개](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%9E%90%EB%A3%8C%ED%98%95?category=924733) <br/>
 2-3. [const와 상수](https://bamtory29.tistory.com/entry/Javascript-%EC%83%81%EC%88%98-%EC%84%A0%EC%96%B8%ED%95%98%EA%B8%B0-const?category=924733) <br/>
-2-4. [스코프와 호이스팅](https://bamtory29.tistory.com/entry/Javascript-%EC%8A%A4%EC%BD%94%ED%94%84-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85?category=924733) <br/>
-2-5. [배열](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%B0%EC%97%B4?category=924733) <br/>
-2-6. [심볼](https://bamtory29.tistory.com/entry/Javascript-Symbol?category=924733) <br/>
-2-7. [템플릿 문자열](https://bamtory29.tistory.com/entry/Javascript-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%AC%B8%EC%9E%90%EC%97%B4-ES2015?category=924733) <br/>
-2-8. [객체 확장 표현식](https://bamtory29.tistory.com/entry/Javascript-%EA%B0%9D%EC%B2%B4-%ED%99%95%EC%9E%A5-%ED%91%9C%ED%98%84%EC%8B%9D?category=924733) <br/>
-2-9. [구조 분해 할당](https://bamtory29.tistory.com/entry/Javascript-%EA%B5%AC%EC%A1%B0-%EB%B6%84%ED%95%B4-%ED%95%A0%EB%8B%B9?category=924733) <br/>
-2-10. [shorthand property/method names](https://bamtory29.tistory.com/entry/Javascript-shorthand-property-names?category=924733) <br/>
-2-11. [numeric separators](https://bamtory29.tistory.com/entry/Javascript-numeric-separators?category=924733) <br/>
+2-4. [var, let, 스코프](https://velog.io/@bami/Javascript-var%EC%99%80-let-%EC%8A%A4%EC%BD%94%ED%94%84-%EA%B0%9C%EB%85%90) <br/>
+2-5. [호이스팅](https://velog.io/@bami/Javascript-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85) <br/>
+2-6. [배열](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%B0%EC%97%B4?category=924733) <br/>
+2-7. [심볼](https://bamtory29.tistory.com/entry/Javascript-Symbol?category=924733) <br/>
+2-8. [템플릿 문자열](https://bamtory29.tistory.com/entry/Javascript-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%AC%B8%EC%9E%90%EC%97%B4-ES2015?category=924733) <br/>
+2-9. [객체 확장 표현식](https://bamtory29.tistory.com/entry/Javascript-%EA%B0%9D%EC%B2%B4-%ED%99%95%EC%9E%A5-%ED%91%9C%ED%98%84%EC%8B%9D?category=924733) <br/>
+2-10. [구조 분해 할당](https://bamtory29.tistory.com/entry/Javascript-%EA%B5%AC%EC%A1%B0-%EB%B6%84%ED%95%B4-%ED%95%A0%EB%8B%B9?category=924733) <br/>
+2-11. [shorthand property/method names](https://bamtory29.tistory.com/entry/Javascript-shorthand-property-names?category=924733) <br/>
+2-12. [numeric separators](https://bamtory29.tistory.com/entry/Javascript-numeric-separators?category=924733) <br/>
 
 ### 3. 연산자
 3-1. [산술 연산자](https://bamtory29.tistory.com/entry/Javascript-%EC%82%B0%EC%88%A0-%EC%97%B0%EC%82%B0%EC%9E%90?category=924733) <br/>

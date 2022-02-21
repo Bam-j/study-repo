@@ -6,22 +6,22 @@ console.log('Hello world!');
 
 ---
 ### 1. 자바스크립트 시작하기
-1-1. [자바스크립트 소개](https://bamtory29.tistory.com/entry/JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EC%9A%94?category=924733) <br/>
-1-2. [개발자 도구](https://bamtory29.tistory.com/entry/JavaScript-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC?category=924733) <br/>
-1-3. [VSCode](https://bamtory29.tistory.com/entry/JavaScript-%EC%97%90%EB%94%94%ED%84%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0?category=924733) <br/>
-1-4. [Hello world!](https://bamtory29.tistory.com/entry/JavaScript-Hello-World?category=924733) <br/>
-1-5. [자바스크립트 파일 삽입](https://bamtory29.tistory.com/entry/javascript-html-%ED%8C%8C%EC%9D%BC%EC%97%90-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0?category=924733) <br/>
-1-6. [<script>태그의 위치](https://bamtory29.tistory.com/entry/javascript-script%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%9C%84%EC%B9%98?category=924733) <br/>
-1-7. [자바스크립트 기본 규칙](https://bamtory29.tistory.com/entry/JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EA%B7%9C%EC%B9%99?category=924733) <br/>
-1-8. [주석](https://bamtory29.tistory.com/entry/Javascript-%EC%A3%BC%EC%84%9D?category=924733) <br/>
+1-1. [자바스크립트 소개](https://velog.io/@bami/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8) <br/>
+1-2. [개발자 도구](https://velog.io/@bami/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC%ED%81%AC%EB%A1%AC) <br/>
+1-3. [VSCode](https://velog.io/@bami/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%90%EB%94%94%ED%84%B0-vscode) <br/>
+1-4. [Hello world!](https://velog.io/@bami/Javascript-Hello-World) <br/>
+1-5. [자바스크립트 파일 삽입](https://velog.io/@bami/Javascript-HTML-%EB%AC%B8%EC%84%9C%EC%97%90-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%BD%EC%9E%85) <br/>
+1-6. [<script>태그의 위치](https://velog.io/@bami/Javascript-script%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%9C%84%EC%B9%98) <br/>
+1-7. [주석](https://velog.io/@bami/Javascript-%EC%A3%BC%EC%84%9D) <br/>
 
 ### 2. 변수
-2-1. [변수 선언과 명명 규칙](https://bamtory29.tistory.com/entry/Javascript-%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8%EA%B3%BC-%EB%AA%85%EB%AA%85-%EA%B7%9C%EC%B9%99?category=924733) <br/>
-2-2. [자료형 소개](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EC%9E%90%EB%A3%8C%ED%98%95?category=924733) <br/>
-2-3. [const와 상수](https://bamtory29.tistory.com/entry/Javascript-%EC%83%81%EC%88%98-%EC%84%A0%EC%96%B8%ED%95%98%EA%B8%B0-const?category=924733) <br/>
+2-1. [변수 선언과 명명 규칙](https://velog.io/@bami/Javascript-%EC%A3%BC%EC%84%9D) <br/>
+2-2. [자료형](https://velog.io/@bami/Javascript-%EC%9E%90%EB%A3%8C%ED%98%95) <br/>
+2-3. [const와 상수](https://velog.io/@bami/Javascript-%EC%83%81%EC%88%98%EC%99%80-const) <br/>
 2-4. [var, let, 스코프](https://velog.io/@bami/Javascript-var%EC%99%80-let-%EC%8A%A4%EC%BD%94%ED%94%84-%EA%B0%9C%EB%85%90) <br/>
 2-5. [호이스팅](https://velog.io/@bami/Javascript-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85) <br/>
-2-6. [배열](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%B0%EC%97%B4?category=924733) <br/>
+2-6. [배열](https://velog.io/@bami/Javascript-%EB%B0%B0%EC%97%B4) <br/>
+2-7. [연관 배열](https://velog.io/@bami/Javascript-%EC%97%B0%EA%B4%80-%EB%B0%B0%EC%97%B4) <br/>
 2-7. [심볼](https://bamtory29.tistory.com/entry/Javascript-Symbol?category=924733) <br/>
 2-8. [템플릿 문자열](https://bamtory29.tistory.com/entry/Javascript-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%AC%B8%EC%9E%90%EC%97%B4-ES2015?category=924733) <br/>
 2-9. [객체 확장 표현식](https://bamtory29.tistory.com/entry/Javascript-%EA%B0%9D%EC%B2%B4-%ED%99%95%EC%9E%A5-%ED%91%9C%ED%98%84%EC%8B%9D?category=924733) <br/>
@@ -30,23 +30,23 @@ console.log('Hello world!');
 2-12. [numeric separators](https://bamtory29.tistory.com/entry/Javascript-numeric-separators?category=924733) <br/>
 
 ### 3. 연산자
-3-1. [산술 연산자](https://bamtory29.tistory.com/entry/Javascript-%EC%82%B0%EC%88%A0-%EC%97%B0%EC%82%B0%EC%9E%90?category=924733) <br/>
-3-2. [대입 연산자](https://bamtory29.tistory.com/entry/Javascript-%EB%8C%80%EC%9E%85-%EC%97%B0%EC%82%B0%EC%9E%90?category=924733) <br/>
-3-3. [비교 연산자](https://bamtory29.tistory.com/entry/Javascript-%EB%B9%84%EA%B5%90-%EC%97%B0%EC%82%B0%EC%9E%90?category=924733) <br/>
-3-4. [논리 연산자](https://bamtory29.tistory.com/entry/Javascript-%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0%EC%9E%90?category=924733) <br/>
-3-5. [비트 연산자](https://bamtory29.tistory.com/entry/javascript-%EB%B9%84%ED%8A%B8-%EC%97%B0%EC%82%B0%EC%9E%90?category=924733) <br/>
-3-6. [기타 연산자](https://bamtory29.tistory.com/entry/Javascript-%EA%B8%B0%ED%83%80-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4?category=924733) <br/>
-3-7. [연산자 우선순위](https://bamtory29.tistory.com/entry/Javascript-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%EC%99%80-%EA%B2%B0%ED%95%A9?category=924733) <br/>
+3-1. [산술 연산자](https://velog.io/@bami/Javascript-%EC%82%B0%EC%88%A0-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
+3-2. [대입 연산자](https://velog.io/@bami/Javascript-%EB%8C%80%EC%9E%85-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
+3-3. [비교 연산자](https://velog.io/@bami/Javascript-%EB%B9%84%EA%B5%90-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
+3-4. [논리 연산자](https://velog.io/@bami/Javascript-%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
+3-5. [비트 연산자](https://velog.io/@bami/Javascript-%EB%B9%84%ED%8A%B8-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
+3-6. [기타 연산자](https://velog.io/@bami/Javascript-%EA%B8%B0%ED%83%80-%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4) <br/>
+3-7. [연산자 우선순위](https://velog.io/@bami/Javascript-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84) <br/>
 3-8. [전개 연산자 ...](https://bamtory29.tistory.com/entry/Javascript-%EC%A0%84%EA%B0%9C-%EC%97%B0%EC%82%B0%EC%9E%90?category=924733) <br/>
 3-9. [Nullish Coalescing Operator](https://bamtory29.tistory.com/entry/Nullish-coalescing-%EC%97%B0%EC%82%B0%EC%9E%90?category=924733) <br/>
 3-10. [optional channing](https://bamtory29.tistory.com/entry/Javascript-optional-chainning?category=924733) <br/>
 
 
 ### 4. 제어구문
-4-1. [조건문 if, if~else, else](https://bamtory29.tistory.com/entry/Javascript-%EC%A1%B0%EA%B1%B4%EB%AC%B8?category=924733) <br/>
-4-2. [분기문 switch~case](https://bamtory29.tistory.com/entry/Javascript-%EB%B6%84%EA%B8%B0%EB%AC%B8%EC%84%A0%ED%83%9D%EB%AC%B8?category=924733) <br/>
-4-3. [반복문1 while, do~while](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8-1-while-dowhile?category=924733) <br/>
-4-4. [반복문2 for](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8-2-for%EB%AC%B8?category=924733) <br/>
+4-1. [조건문 if, if~else, else](https://velog.io/@bami/Javascript-%EC%A1%B0%EA%B1%B4%EB%AC%B8) <br/>
+4-2. [분기문 switch~case](https://velog.io/@bami/Javascript-%EC%84%A0%ED%83%9D%EB%AC%B8) <br/>
+4-3. [반복문1 while, do~while](https://velog.io/@bami/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B81) <br/>
+4-4. [반복문2 for](https://velog.io/@bami/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B82-for) <br/>
 4-5. [반복문3 for~in](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8-3-forin?category=924733) <br/>
 4-6. [반복문4 for~of](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8-4-forof?category=924733) <br/>
 4-7. [반복문5 continue, break, label](https://bamtory29.tistory.com/entry/Javascript-%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%98-%EC%A0%9C%EC%96%B4-continuebreak-%EB%A0%88%EC%9D%B4%EB%B8%94?category=924733) <br/>
@@ -114,7 +114,7 @@ console.log('Hello world!');
 9-7. [자바스크립트 테스트 프레임워크, Jasmine](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC-Jasmine) <br/>
 
 ### 번외  
-- [코딩 컨벤션](https://bamtory29.tistory.com/entry/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98?category=924733) <br/>
+- [코딩 컨벤션](https://velog.io/@bami/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98) <br/>
 - [정규 표현](https://bamtory29.tistory.com/entry/Javascript-%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84?category=924733) <br/>
 ---
 ### 다른 글들

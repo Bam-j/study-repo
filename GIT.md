@@ -31,11 +31,11 @@
 4-2. [소스트리 사용법](https://velog.io/@bami/Sourcetree-%EC%86%8C%EC%8A%A4%ED%8A%B8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95) <br/>
 
 ### 5. GitHub
-5-1. [원격 저장소](https://bamtory29.tistory.com/entry/GitGitHub-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C?category=988312) <br/>
-5-2. [원격 저장소 생성](https://bamtory29.tistory.com/entry/GitHub-%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0?category=988312) <br/>
-5-3. [파일 업로드, 다운로드](https://bamtory29.tistory.com/entry/GitHub-%ED%8C%8C%EC%9D%BC-%EC%98%AC%EB%A6%AC%EA%B8%B0%EC%99%80-%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0?category=988312) <br/>
-5-4. [원격 저장소 파일 삭제](https://bamtory29.tistory.com/entry/GitGithub-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%A7%80%EC%9A%B0%EA%B8%B0?category=988312) <br/>
-5-5. [원격 저장소 복제](https://bamtory29.tistory.com/entry/Git-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%9D%98-%EB%B3%B5%EC%A0%9C-git-clone?category=988312) <br/>
+5-1. [원격 저장소](https://velog.io/@bami/GitGitHub-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C) <br/>
+5-2. [원격 저장소 생성](https://velog.io/@bami/GitHub-GitHub%EC%97%90-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0) <br/>
+5-3. [파일 업로드, 다운로드](https://velog.io/@bami/GitGitHub-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90-%ED%8C%8C%EC%9D%BC-%EC%98%AC%EB%A6%AC%EA%B8%B0%EC%99%80-%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0) <br/>
+5-4. [원격 저장소 파일 삭제](https://velog.io/@bami/GitGithub-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%A7%80%EC%9A%B0%EA%B8%B0) <br/>
+5-5. [원격 저장소 복제](https://velog.io/@bami/Git-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%9D%98-%EB%B3%B5%EC%A0%9C-git-clone) <br/>
 
 ### 번외
 [Vim](https://velog.io/@bami/GitVim-Vim-%EA%B8%B0%EC%B4%88-%EB%B0%B0%EC%9A%B0%EA%B8%B0) <br/>

@@ -24,4 +24,4 @@
 [Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
 
 ---
-[블로그 타입스크립트 카테고리](https://bamtory29.tistory.com/category/Programming/Typescript?page=1) <br/>
+[블로그 타입스크립트 카테고리](https://velog.io/@bami/series/Typescript) <br/>

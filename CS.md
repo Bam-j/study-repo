@@ -19,7 +19,7 @@
 - [SPA](https://velog.io/@bami/SPA-Single-Page-Application) <br>
 - [서버 사이드 렌더링, 클라이언트 사이드 렌더링](https://velog.io/@bami/%EC%84%9C%EB%B2%84-%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81) <br>
 
-### 일반 지식
+### 일반
 - [파일 경로](https://velog.io/@bami/%ED%8C%8C%EC%9D%BC-%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80-%EA%B2%BD%EB%A1%9C%EC%99%80-%EC%83%81%EB%8C%80-%EA%B2%BD%EB%A1%9C) <br>
 - [라이브러이와 프레임워크](https://velog.io/@bami/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC) <br>
 - [마크다운](https://velog.io/@bami/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-5hhylgaq) <br>

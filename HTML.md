@@ -1,6 +1,5 @@
 # HTML
 저에게 웹 개발의 재미를 갖게 만들어 준 HTML을 공부하며 작성한 글들입니다.
-블로그 시작 첫 글이라서 다소 템플릿이나, 가독성, 글의 완성도가 완벽하지 않았을 수도 있습니다.
 
 <i>(블로그 작성 순서와 아래 목차 순서는 일치하지 않을 수 있습니다!)</i>
 
@@ -36,3 +35,6 @@
 ### 번외.
 [CSS](https://github.com/Bam-j/study-repo/blob/main/CSS.md) <br/>
 [javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
+<hr>
+
+- [블로그 HTML 카테고리 이동](https://velog.io/@bami/series/HTML)

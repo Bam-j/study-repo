@@ -123,4 +123,4 @@ console.log('Hello world!');
 엄격한 타입 관리를 하는 자바스크립트 슈퍼셋 [Typescript](https://github.com/Bam-j/study-repo/blob/main/TYPESCRIPT.md)
 
 ---
-[블로그 자바스크립트 카테고리 링크](https://bamtory29.tistory.com/category/Programming/Javascript) <br/>
+[블로그 자바스크립트 카테고리 링크](https://velog.io/@bami/series/Javascript) <br/>

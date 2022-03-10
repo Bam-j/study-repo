@@ -21,6 +21,10 @@
 3-4. [테두리 영역](https://velog.io/@bami/CSS-%ED%85%8C%EB%91%90%EB%A6%AC-%EC%98%81%EC%97%AD) <br/>
 3-4. [박스 모델](https://velog.io/@bami/CSS-%EB%B0%95%EC%8A%A4-%EB%AA%A8%EB%8D%B8) <br/>
 
+### 4. 반응형 웹 디자인
+4-1. [반응형 웹 디자인, 뷰포트](https://velog.io/@bami/CSS-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC-%EB%B7%B0%ED%8F%AC%ED%8A%B8) <br>
+4-2. [미디어 쿼리](https://velog.io/@bami/CSS-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%BF%BC%EB%A6%AC)
+
 ### 번외
 [HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>
 [Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>

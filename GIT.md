@@ -14,10 +14,11 @@
 2-3. [변경사항 확인하기](https://velog.io/@bami/Git-%EB%B3%80%EA%B2%BD-%EC%82%AC%ED%95%AD%EC%9D%98-%ED%99%95%EC%9D%B8-git-diff) <br/>
 2-4. [.gitignore](https://velog.io/@bami/Git-.gitignore) <br/>
 2-5. [커밋 취소](https://velog.io/@bami/Git-%EC%BB%A4%EB%B0%8B-%EC%B7%A8%EC%86%8C) <br/>
-2-6. [커밋 메세지 수정](https://velog.io/@bami/Git-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80%EC%9D%98-%EC%88%98%EC%A0%95) <br/>
-2-7. [tracked, untracked](https://velog.io/@bami/Git-tracked-%ED%8C%8C%EC%9D%BC) <br/>
-2-8. [tracked 파일 상태 변화](https://velog.io/@bami/Git-tracked-%ED%8C%8C%EC%9D%BC%EC%9D%98-%EC%83%81%ED%83%9C-%EB%B3%80%ED%99%94) <br/>
-2-9. [git stash](https://velog.io/@bami/Git-git-stash) <br/>
+2-6. [커밋 기록 확인](https://velog.io/@bami/Git-%EC%BB%A4%EB%B0%8B-%EA%B8%B0%EB%A1%9D-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) <br/>
+2-7. [커밋 메세지 수정](https://velog.io/@bami/Git-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%84%B8%EC%A7%80%EC%9D%98-%EC%88%98%EC%A0%95) <br/>
+2-8. [tracked, untracked](https://velog.io/@bami/Git-tracked-%ED%8C%8C%EC%9D%BC) <br/>
+2-9. [tracked 파일 상태 변화](https://velog.io/@bami/Git-tracked-%ED%8C%8C%EC%9D%BC%EC%9D%98-%EC%83%81%ED%83%9C-%EB%B3%80%ED%99%94) <br/>
+2-10. [git stash](https://velog.io/@bami/Git-git-stash) <br/>
 
 ### 3. 브랜치
 3-1. [브랜치 소개](https://velog.io/@bami/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-Branch) <br/>

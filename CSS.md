@@ -21,6 +21,7 @@
 3-4. [테두리 영역](https://velog.io/@bami/CSS-%ED%85%8C%EB%91%90%EB%A6%AC-%EC%98%81%EC%97%AD) <br/>
 3-4. [박스 모델](https://velog.io/@bami/CSS-%EB%B0%95%EC%8A%A4-%EB%AA%A8%EB%8D%B8) <br/>
 3-5. [레이아웃](https://velog.io/@bami/CSS-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83) <br/>
+3-6. [웹 요소의 위치](https://velog.io/@bami/CSS-%EC%9B%B9-%EC%9A%94%EC%86%8C%EC%9D%98-%EC%9C%84%EC%B9%98) <br/>
 
 ### 4. 반응형 웹 디자인
 4-1. [반응형 웹 디자인, 뷰포트](https://velog.io/@bami/CSS-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC-%EB%B7%B0%ED%8F%AC%ED%8A%B8) <br>

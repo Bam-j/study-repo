@@ -22,11 +22,13 @@
 3-4. [박스 모델](https://velog.io/@bami/CSS-%EB%B0%95%EC%8A%A4-%EB%AA%A8%EB%8D%B8) <br/>
 3-5. [레이아웃](https://velog.io/@bami/CSS-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83) <br/>
 3-6. [웹 요소의 위치](https://velog.io/@bami/CSS-%EC%9B%B9-%EC%9A%94%EC%86%8C%EC%9D%98-%EC%9C%84%EC%B9%98) <br/>
+3-7. [요소 가운데 정렬](https://velog.io/@bami/CSS-%EC%9A%94%EC%86%8C-%EA%B0%80%EC%9A%B4%EB%8D%B0-%EC%A0%95%EB%A0%AC) <br/>
 
 ### 4. 반응형 웹 디자인
 4-1. [반응형 웹 디자인, 뷰포트](https://velog.io/@bami/CSS-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC-%EB%B7%B0%ED%8F%AC%ED%8A%B8) <br>
 4-2. [미디어 쿼리](https://velog.io/@bami/CSS-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%BF%BC%EB%A6%AC) <br/>
 4-3. [그리드 레이아웃](https://velog.io/@bami/CSS-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83) <br/>
+4-4. [플렉스 박스 레이아웃](https://velog.io/@bami/CSS-%ED%94%8C%EB%A0%89%EC%8A%A4-%EB%B0%95%EC%8A%A4-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83) <br/> 
 
 ### 번외
 [HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>

@@ -10,6 +10,8 @@
 - [함수형 프로그래밍](https://velog.io/@bami/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br>
 
 ### 웹 개발
+- [프론트엔드와 백엔드](https://velog.io/@bami/Front-end-Back-end) <br/>
+- [정적/동적 웹 페이지](https://velog.io/@bami/%EC%A0%95%EC%A0%81-%EC%9B%B9-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%99%80-%EB%8F%99%EC%A0%81-%EC%9B%B9-%ED%8E%98%EC%9D%B4%EC%A7%80) <br/>
 - [AJAX](https://velog.io/@bami/Ajax) <br>
 - [색상 표기법](https://velog.io/@bami/%EC%83%89%EC%83%81-%ED%91%9C%EA%B8%B0%EB%B2%95) <br>
 - [HTTP](https://velog.io/@bami/HTTP) <br>

@@ -78,10 +78,12 @@ console.log('Hello world!');
 6-10. [내장 객체 Date](https://velog.io/@bami/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-Date) <br/>
 6-11. [내장 객체 RegExp](https://velog.io/@bami/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-RegExp) <br/>
 6-12. [Object 객체(assign, 불변 객체)](https://velog.io/@bami/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-Object) <br/>
-6-13. [Proxy 객체](https://velog.io/@bami/Javascript-Proxy-%EA%B0%9D%EC%B2%B4) <br/>
-6-14. [shorthand names](https://velog.io/@bami/Javascript-shorthand-names) <br/>
-6-15. [optional chaining](https://velog.io/@bami/Javascript-optional-chaining) <br/>
-6-16. [Iterator, Generator](https://velog.io/@bami/Javascript-Iterator-Generator) <br/>
+6-13. [Global 객체](https://velog.io/@bami/Javascript-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4-Global) <br/>
+6-14. [Proxy 객체](https://velog.io/@bami/Javascript-Proxy-%EA%B0%9D%EC%B2%B4) <br/>
+6-15. [파괴적인 메소드](https://velog.io/@bami/%ED%8C%8C%EA%B4%B4%EC%A0%81%EC%9D%B8-%EB%A9%94%EC%86%8C%EB%93%9C) <br/>
+6-16. [shorthand names](https://velog.io/@bami/Javascript-shorthand-names) <br/>
+6-17. [optional chaining](https://velog.io/@bami/Javascript-optional-chaining) <br/>
+6-18. [Iterator, Generator](https://velog.io/@bami/Javascript-Iterator-Generator) <br/>
 
 ### 7. 프로토타입과 클래스
 7-1. [프로토타입](https://velog.io/@bami/Javascript-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85) <br/>

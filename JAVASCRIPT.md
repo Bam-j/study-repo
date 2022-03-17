@@ -63,7 +63,8 @@ console.log('Hello world!');
 5-9. [인수와 인자](https://velog.io/@bami/Javascript-%EC%9D%B8%EC%88%98%EC%99%80-%EC%9D%B8%EC%9E%90) <br/>
 5-10. [명명된 인수](https://velog.io/@bami/Javascript-%EB%AA%85%EB%AA%85%EB%90%9C-%EC%9D%B8%EC%88%98) <br/>
 5-11. [기본값 함수 매개변수](https://velog.io/@bami/Javascript-default-function-parameter) <br/>
-5-12. [클로저](https://velog.io/@bami/Javascript-Closure) <br/>
+5-12. [Tagged Template Strings](https://velog.io/@bami/Javascript-Tagged-Template-Strings) <br/>
+5-13. [클로저](https://velog.io/@bami/Javascript-Closure) <br/>
 
 ### 6. 객체
 6-1. [객체](https://velog.io/@bami/Javascript-%EA%B0%9D%EC%B2%B4) <br/>

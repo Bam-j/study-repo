@@ -26,6 +26,7 @@
 3-3. [브랜치 정보 확인하기](https://velog.io/@bami/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%95%EB%B3%B4-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) <br/>
 3-4. [브랜치 병합](https://velog.io/@bami/Git-%EB%B3%91%ED%95%A9-Merge) <br/>
 3-5. [브랜치 삭제](https://velog.io/@bami/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%82%AD%EC%A0%9C) <br/>
+3-6. [Fast-Forward 병합](https://velog.io/@bami/Git-Fast-Forward-%EB%B3%91%ED%95%A9) <br/>
 
 ### 4. GUI 툴 소스트리
 4-1. [소스트리 소개와 설치](https://velog.io/@bami/GitSourcetree-%EC%86%8C%EC%8A%A4-%ED%8A%B8%EB%A6%AC-Sourcetree) <br/>

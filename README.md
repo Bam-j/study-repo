@@ -24,3 +24,5 @@
 ### - [Algorithm](https://github.com/Bam-j/study-repo/blob/main/ALGORITHM.md) <br/>
 ### - [Design Pattern](https://github.com/Bam-j/study-repo/blob/main/DESIGN_PATTERN.md) <br/>
 
+## [etc.]
+### - [에러일기](https://velog.io/@bami/series/%EC%97%90%EB%9F%AC-%EC%9D%BC%EA%B8%B0) <br/>

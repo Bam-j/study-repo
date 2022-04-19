@@ -8,6 +8,7 @@
 - [테스트 주도 개발](https://velog.io/@bami/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C) <br>
 - [명령형 프로그래밍과 선언형 프로그래밍](https://velog.io/@bami/%EB%AA%85%EB%A0%B9%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%EC%84%A0%EC%96%B8%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br>
 - [함수형 프로그래밍](https://velog.io/@bami/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br>
+- [비구조적/구조적 프로그래밍](https://velog.io/@bami/%EB%B9%84%EA%B5%AC%EC%A1%B0%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%EA%B5%AC%EC%A1%B0%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br/>
 
 ### 웹 개발
 - [프론트엔드와 백엔드](https://velog.io/@bami/Front-end-Back-end) <br/>
@@ -23,7 +24,7 @@
 
 ### 일반
 - [파일 경로](https://velog.io/@bami/%ED%8C%8C%EC%9D%BC-%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80-%EA%B2%BD%EB%A1%9C%EC%99%80-%EC%83%81%EB%8C%80-%EA%B2%BD%EB%A1%9C) <br>
-- [라이브러이와 프레임워크](https://velog.io/@bami/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC) <br>
+- [라이브러리와 프레임워크](https://velog.io/@bami/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC) <br>
 - [마크다운](https://velog.io/@bami/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-5hhylgaq) <br>
 - [오픈 소스 소프트웨어](https://velog.io/@bami/%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4) <br/>
 - [클라우드 컴퓨팅](https://velog.io/@bami/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85) <br/>

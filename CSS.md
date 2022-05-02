@@ -31,8 +31,9 @@
 4-4. [플렉스 박스 레이아웃](https://velog.io/@bami/CSS-%ED%94%8C%EB%A0%89%EC%8A%A4-%EB%B0%95%EC%8A%A4-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83) <br/>
 
 ### 5. 전처리기 SCSS
-5-1. [SCSS 소개](https://velog.io/@bami/SCSS-SASSSCSS)<br/>
-5-2. [SCSS 컴파일](https://velog.io/@bami/SCSS-SCSS-%EC%BB%B4%ED%8C%8C%EC%9D%BC)<br/>
+5-1. [SCSS 소개](https://velog.io/@bami/SCSS-SASSSCSS) <br/>
+5-2. [SCSS 컴파일](https://velog.io/@bami/SCSS-SCSS-%EC%BB%B4%ED%8C%8C%EC%9D%BC) <br/>
+5-3. [SCSS 문법 - 변수](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%951) <br/>
 
 ### 번외
 [HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>

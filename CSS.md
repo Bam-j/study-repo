@@ -34,6 +34,7 @@
 5-1. [SCSS 소개](https://velog.io/@bami/SCSS-SASSSCSS) <br/>
 5-2. [SCSS 컴파일](https://velog.io/@bami/SCSS-SCSS-%EC%BB%B4%ED%8C%8C%EC%9D%BC) <br/>
 5-3. [SCSS 문법 - 변수](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%951) <br/>
+5-4. [Nesting](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%952-Nesting) <br/>
 
 ### 번외
 [HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>

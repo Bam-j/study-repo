@@ -36,6 +36,7 @@
 5-3. [변수](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%951) <br/>
 5-4. [Nesting](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%952-Nesting) <br/>
 5-5. [@import](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%953-import) <br/>
+5-6. [연산자와 연산](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%954-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
 
 ### 번외
 [HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>

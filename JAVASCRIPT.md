@@ -11,7 +11,7 @@ console.log('Hello world!');
 1-3. [VSCode](https://velog.io/@bami/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%97%90%EB%94%94%ED%84%B0-vscode) <br/>
 1-4. [Hello world!](https://velog.io/@bami/Javascript-Hello-World) <br/>
 1-5. [자바스크립트 파일 삽입](https://velog.io/@bami/Javascript-HTML-%EB%AC%B8%EC%84%9C%EC%97%90-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%BD%EC%9E%85) <br/>
-1-6. [<script>태그의 위치](https://velog.io/@bami/Javascript-script%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%9C%84%EC%B9%98) <br/>
+1-6. [`<script>`태그의 위치](https://velog.io/@bami/Javascript-script%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%9C%84%EC%B9%98) <br/>
 1-7. [주석](https://velog.io/@bami/Javascript-%EC%A3%BC%EC%84%9D) <br/>
 
 ### 2. 변수
@@ -94,7 +94,7 @@ console.log('Hello world!');
 7-5. [this](https://velog.io/@bami/Javascript-this) <br/>
 7-6. [protected, private](https://velog.io/@bami/Javascript-protected%EC%99%80-private-%EB%A9%A4%EB%B2%84-%EC%A0%95%EC%9D%98)
 
-### 8. DOM, Document Object Model
+### 8. DOM, BOM
 8-1. [DOM](https://velog.io/@bami/Javascript-%EB%AC%B8%EC%84%9C-%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8-DOM) <br/>
 8-2. [노드 취득](https://velog.io/@bami/Javascript-%EB%85%B8%EB%93%9C-%EC%B7%A8%EB%93%9D) <br/>
 8-3. [노드 워킹](https://velog.io/@bami/Javascript-%EB%85%B8%EB%93%9C-%EC%9B%8C%ED%82%B9) <br/>
@@ -105,6 +105,7 @@ console.log('Hello world!');
 8-8. [노드 변경, 삭제](https://velog.io/@bami/Javascript-%EB%85%B8%EB%93%9C-%EB%B3%80%EA%B2%BD%EA%B3%BC-%EC%82%AD%EC%A0%9C) <br/>
 8-9. [스타일 시트 접근](https://velog.io/@bami/Javacript-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%8B%9C%ED%8A%B8-%EC%A0%91%EA%B7%BC) <br/>
 8-10. [BOM](https://velog.io/@bami/Javascirpt-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8-BOM) <br/>
+8-11. [Console 객체](https://velog.io/@bami/Javascript-Console-%EA%B0%9D%EC%B2%B4) <br/>
 
 ### 9. 자바스크립트 활용
 9-1. [모듈](https://velog.io/@bami/Javascript-%EB%AA%A8%EB%93%88-Module) <br/>

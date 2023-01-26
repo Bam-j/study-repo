@@ -38,6 +38,7 @@ console.log('Hello world!');
 3-7. [연산자 우선순위](https://velog.io/@bami/Javascript-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84) <br/>
 3-8. [전개 연산자 ...](https://velog.io/@bami/Javascript-%EC%A0%84%EA%B0%9C-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
 3-9. [Nullish Coalescing Operator](https://velog.io/@bami/Javascript-Nullish-Coalescing-Operator) <br/>
+3-10. [~ 연산자](https://velog.io/@bami/Javascript) <br>
 
 
 ### 4. 제어구문
@@ -85,6 +86,7 @@ console.log('Hello world!');
 6-16. [shorthand names](https://velog.io/@bami/Javascript-shorthand-names) <br/>
 6-17. [optional chaining](https://velog.io/@bami/Javascript-optional-chaining) <br/>
 6-18. [Iterator, Generator](https://velog.io/@bami/Javascript-Iterator-Generator) <br/>
+6-19. [String.replaceAll()](https://velog.io/@bami/Javascript-String.replaceAll) <br>
 
 ### 7. 프로토타입과 클래스
 7-1. [프로토타입](https://velog.io/@bami/Javascript-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85) <br/>
@@ -111,7 +113,7 @@ console.log('Hello world!');
 9-1. [모듈](https://velog.io/@bami/Javascript-%EB%AA%A8%EB%93%88-Module) <br/>
 9-2. [Ajax, 동기와 비동기](https://bamtory29.tistory.com/entry/Ajax) <br/>
 9-3. [XMLHttpRequest](https://velog.io/@bami/Javascript-XMLHttpRequest) <br/>
-9-4.[Promise 객체](https://velog.io/@bami/Javascript-Promise-%EA%B0%9D%EC%B2%B4) <br/>
+9-4. [Promise 객체](https://velog.io/@bami/Javascript-Promise-%EA%B0%9D%EC%B2%B4) <br/>
 9-5. [Fetch API](https://velog.io/@bami/Javascript-Fetch-API) <br/>
 9-6. [async/await](https://velog.io/@bami/Javascript-asyncawait) <br/>
 9-7. [웹 스토리지](https://velog.io/@bami/Javascript-%EC%9B%B9-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-Web-Storage) <br/>

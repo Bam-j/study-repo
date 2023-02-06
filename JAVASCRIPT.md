@@ -122,6 +122,8 @@ console.log('Hello world!');
 - [코딩 컨벤션](https://velog.io/@bami/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98) <br/>
 - [정규 표현](https://velog.io/@bami/Javascript-%EC%A0%95%EA%B7%9C-%ED%91%9C%ED%98%84) <br/>
 - [자바스크립트 테스트 프레임워크, Jasmine](https://velog.io/@bami/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC-Jasmine) <br/>
+- [자바스크립트 테스트 프레임워크, Jest](https://velog.io/@bami/Javascript-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-Jest) <br>
+
 ---
 ### 다른 글들
 사용자 인터페이스를 위한 [리액트 라이브러리](https://github.com/Bam-j/react-study/blob/main/README.md) <br/>

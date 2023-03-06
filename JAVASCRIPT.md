@@ -118,6 +118,7 @@ console.log('Hello world!');
 9-6. [async/await](https://velog.io/@bami/Javascript-asyncawait) <br/>
 9-7. [웹 스토리지](https://velog.io/@bami/Javascript-%EC%9B%B9-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-Web-Storage) <br/>
 9-8. [다크 모드](https://velog.io/@bami/%EB%8B%A4%ED%81%AC-%EB%AA%A8%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0) <br/>
+9-9. [모달](https://velog.io/@bami/%EB%AA%A8%EB%8B%AC-%EC%B0%BD-Modal) <br/>
 
 ### 번외  
 - [코딩 컨벤션](https://velog.io/@bami/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98) <br/>

@@ -39,6 +39,10 @@
 5-5. [@import](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%953-import) <br/>
 5-6. [연산자와 연산](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%954-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
 
+### 6. UI
+6-1. [모달](https://velog.io/@bami/%EB%AA%A8%EB%8B%AC-%EC%B0%BD-Modal) <br/>
+6-2. [슬라이드 메뉴](https://velog.io/@bami/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EB%A9%94%EB%89%B4) <br/>
+
 ### 번외
 [Bootstrap](https://velog.io/@bami/Bootstrap-%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) <br>
 [HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>

@@ -12,15 +12,22 @@
 ### - [React](https://github.com/Bam-j/react-study/blob/main/README.md) <br/>
 ### - [Node.js](https://github.com/Bam-j/node-study/blob/main/README.md) <br/>
 
-<br/>
+<hr/>
 
 ## [skill]
-### - [Computer Science](https://github.com/Bam-j/study-repo/blob/main/CS.md) <br/>
 ### - [Git](https://github.com/Bam-j/study-repo/blob/main/GIT.md) <br/>
 ### - [Database](https://github.com/Bam-j/study-repo/blob/main/DATABASE.md) <br/>
 ### - [Data Structure](https://github.com/Bam-j/study-repo/blob/main/DATA_STRUCTURE.md) <br/>
+
+<hr/>
+
+## [Computer Science]
+### - [Computer Science](https://github.com/Bam-j/study-repo/blob/main/CS.md) <br/>
+### - [Network](https://github.com/Bam-j/study-repo/blob/main/NETWORK.md) <br/>
 ### - [Algorithm](https://github.com/Bam-j/study-repo/blob/main/ALGORITHM.md) <br/>
 ### - [Design Pattern](https://github.com/Bam-j/study-repo/blob/main/DESIGN_PATTERN.md) <br/>
+
+<hr/>
 
 ## [etc.]
 ### - [독서록 - Clean Code](https://velog.io/@bami/Clean-Code-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C) <br/>

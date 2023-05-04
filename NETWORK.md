@@ -9,6 +9,8 @@
 - [2계층: 데이터 링크 계층](https://velog.io/@bami/2%EA%B3%84%EC%B8%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%81%ED%81%AC-%EA%B3%84%EC%B8%B5) <br/>
 - [스위치](https://velog.io/@bami/%EC%8A%A4%EC%9C%84%EC%B9%98#%EA%B0%80%EC%83%81-%ED%9A%8C%EC%84%A0) <br/>
 - [3계층: 네트워크 계층](https://velog.io/@bami/3%EA%B3%84%EC%B8%B5-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%84%EC%B8%B5) <br/>
+- [서브넷, 슈퍼넷](https://velog.io/@bami/%EC%84%9C%EB%B8%8C%EB%84%B7-%EC%8A%88%ED%8D%BC%EB%84%B7) <br/>
+- [라우터](https://velog.io/@bami/%EB%9D%BC%EC%9A%B0%ED%84%B0) <br/>
 
 <hr/>
 

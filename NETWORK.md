@@ -11,6 +11,7 @@
 - [3계층: 네트워크 계층](https://velog.io/@bami/3%EA%B3%84%EC%B8%B5-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%84%EC%B8%B5) <br/>
 - [서브넷, 슈퍼넷](https://velog.io/@bami/%EC%84%9C%EB%B8%8C%EB%84%B7-%EC%8A%88%ED%8D%BC%EB%84%B7) <br/>
 - [라우터](https://velog.io/@bami/%EB%9D%BC%EC%9A%B0%ED%84%B0) <br/>
+- [4층: 전송 계층](https://velog.io/@bami/%EC%A0%9C4-%EA%B3%84%EC%B8%B5-%EC%A0%84%EC%86%A1-%EA%B3%84%EC%B8%B5) <br/>
 
 <hr/>
 

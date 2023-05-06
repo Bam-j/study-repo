@@ -16,7 +16,6 @@
 - [정적/동적 웹 페이지](https://velog.io/@bami/%EC%A0%95%EC%A0%81-%EC%9B%B9-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%99%80-%EB%8F%99%EC%A0%81-%EC%9B%B9-%ED%8E%98%EC%9D%B4%EC%A7%80) <br/>
 - [AJAX](https://velog.io/@bami/Ajax) <br>
 - [색상 표기법](https://velog.io/@bami/%EC%83%89%EC%83%81-%ED%91%9C%EA%B8%B0%EB%B2%95) <br>
-- [HTTP](https://velog.io/@bami/HTTP) <br>
 - [JSON](https://velog.io/@bami/JSON) <br>
 - [쿠키와 세션](https://velog.io/@bami/%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98) <br>
 - [OSI 7 Layer](https://velog.io/@bami/OSI-7-Layer) <br>

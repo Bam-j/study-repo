@@ -21,6 +21,7 @@
 - [OSI 7 Layer](https://velog.io/@bami/OSI-7-Layer) <br>
 - [SPA](https://velog.io/@bami/SPA-Single-Page-Application) <br>
 - [서버 사이드 렌더링, 클라이언트 사이드 렌더링](https://velog.io/@bami/%EC%84%9C%EB%B2%84-%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81) <br>
+- [www](https://velog.io/@bami/www) <br/>
 
 ### 일반
 - [파일 경로](https://velog.io/@bami/%ED%8C%8C%EC%9D%BC-%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80-%EA%B2%BD%EB%A1%9C%EC%99%80-%EC%83%81%EB%8C%80-%EA%B2%BD%EB%A1%9C) <br>

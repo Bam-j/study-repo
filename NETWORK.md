@@ -13,7 +13,8 @@
 - [라우터](https://velog.io/@bami/%EB%9D%BC%EC%9A%B0%ED%84%B0) <br/>
 - [4 계층: 전송 계층](https://velog.io/@bami/%EC%A0%9C4-%EA%B3%84%EC%B8%B5-%EC%A0%84%EC%86%A1-%EA%B3%84%EC%B8%B5) <br/>
 - [7 계층: 응용 계층 (5, 6 계층 포함)](https://velog.io/@bami/%EC%A0%9C-7-%EA%B3%84%EC%B8%B5-%EC%9D%91%EC%9A%A9-%EA%B3%84%EC%B8%B5) <br/>
-- [HTTP](https://velog.io/@bami/HTTP) <br>
+- [HTTP](https://velog.io/@bami/HTTP) <br/>
+- [HTTP의 발전](https://velog.io/@bami/HTTP%EC%9D%98-%EB%B0%9C%EC%A0%84#binary-framing-layer) <br/>
 
 <hr/>
 

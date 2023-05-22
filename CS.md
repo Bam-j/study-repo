@@ -30,6 +30,9 @@
 - [오픈 소스 소프트웨어](https://velog.io/@bami/%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4) <br>
 - [클라우드 컴퓨팅](https://velog.io/@bami/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85) <br>
 
-### 클린 코드
+### 독서 - 클린 코드
 - [1장, 2장 의미 있는 이름](https://velog.io/@bami/Clean-Code-2%EC%9E%A5-%EC%9D%98%EB%AF%B8-%EC%9E%88%EB%8A%94-%EC%9D%B4%EB%A6%84) <br>
 - [3장 함수](https://velog.io/@bami/Clean-Code-3%EC%9E%A5-%ED%95%A8%EC%88%98) <br>
+- [4장 주석](https://velog.io/@bami/Clean-Code-4%EC%9E%A5-%EC%A3%BC%EC%84%9D) <br>
+- [5장 형식 맞추기](https://velog.io/@bami/Clean-Code-5%EC%9E%A5-%ED%98%95%EC%8B%9D-%EB%A7%9E%EC%B6%94%EA%B8%B0) <br>
+- [6장 객체와 자료구조](https://velog.io/@bami/Clean-Code-6%EC%9E%A5-%EA%B0%9D%EC%B2%B4%EC%99%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) <br>

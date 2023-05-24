@@ -87,6 +87,7 @@ console.log('Hello world!');
 6-17. [optional chaining](https://velog.io/@bami/Javascript-optional-chaining) <br/>
 6-18. [Iterator, Generator](https://velog.io/@bami/Javascript-Iterator-Generator) <br/>
 6-19. [String.replaceAll()](https://velog.io/@bami/Javascript-String.replaceAll) <br>
+6-20. [원본 배열을 변경하는 Array 객체 메소드](https://velog.io/@bami/Javascript-%EC%9B%90%EB%B3%B8-%EB%B0%B0%EC%97%B4%EC%9D%84-%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94-Array-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%A9%94%EC%86%8C%EB%93%9C) <br>
 
 ### 7. 프로토타입과 클래스
 7-1. [프로토타입](https://velog.io/@bami/Javascript-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85) <br/>

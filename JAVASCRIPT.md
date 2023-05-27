@@ -103,13 +103,14 @@ console.log('Hello world!');
 8-3. [노드 워킹](https://velog.io/@bami/Javascript-%EB%85%B8%EB%93%9C-%EC%9B%8C%ED%82%B9) <br/>
 8-4. [이벤트](https://velog.io/@bami/Javascript-%EC%9D%B4%EB%B2%A4%ED%8A%B8) <br/>
 8-5. [이벤트 객체](https://velog.io/@bami/Javascript-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B0%9D%EC%B2%B4) <br/>
-8-6. [속성 값 노드, 텍스트 노드](https://velog.io/@bami/Javascirpt-%EC%86%8D%EC%84%B1-%EA%B0%92-%EB%85%B8%EB%93%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%85%B8%EB%93%9C) <br/>
-8-7. [폼 요소 접근](https://velog.io/@bami/Javascript-%ED%8F%BC-%EC%9A%94%EC%86%8C-%EC%A0%91%EA%B7%BC) <br/>
-8-8. [노드 추기](https://velog.io/@bami/Javascript-%EB%85%B8%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0) <br/>
-8-9. [노드 변경, 삭제](https://velog.io/@bami/Javascript-%EB%85%B8%EB%93%9C-%EB%B3%80%EA%B2%BD%EA%B3%BC-%EC%82%AD%EC%A0%9C) <br/>
-8-10. [스타일 시트 접근](https://velog.io/@bami/Javacript-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%8B%9C%ED%8A%B8-%EC%A0%91%EA%B7%BC) <br/>
-8-11. [BOM](https://velog.io/@bami/Javascirpt-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8-BOM) <br/>
-8-12. [Console 객체](https://velog.io/@bami/Javascript-Console-%EA%B0%9D%EC%B2%B4) <br/>
+8-6. [캡쳐링과 버블링](https://velog.io/@bami/Javascript-%EC%BA%A1%EC%B3%90%EB%A7%81%EA%B3%BC-%EB%B2%84%EB%B8%94%EB%A7%81) <br/>
+8-7. [속성 값 노드, 텍스트 노드](https://velog.io/@bami/Javascirpt-%EC%86%8D%EC%84%B1-%EA%B0%92-%EB%85%B8%EB%93%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%85%B8%EB%93%9C) <br/>
+8-8. [폼 요소 접근](https://velog.io/@bami/Javascript-%ED%8F%BC-%EC%9A%94%EC%86%8C-%EC%A0%91%EA%B7%BC) <br/>
+8-9. [노드 추기](https://velog.io/@bami/Javascript-%EB%85%B8%EB%93%9C-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0) <br/>
+8-10. [노드 변경, 삭제](https://velog.io/@bami/Javascript-%EB%85%B8%EB%93%9C-%EB%B3%80%EA%B2%BD%EA%B3%BC-%EC%82%AD%EC%A0%9C) <br/>
+8-11. [스타일 시트 접근](https://velog.io/@bami/Javacript-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%8B%9C%ED%8A%B8-%EC%A0%91%EA%B7%BC) <br/>
+8-12. [BOM](https://velog.io/@bami/Javascirpt-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8-BOM) <br/>
+8-13. [Console 객체](https://velog.io/@bami/Javascript-Console-%EA%B0%9D%EC%B2%B4) <br/>
 
 ### 9. 자바스크립트 활용
 9-1. [모듈](https://velog.io/@bami/Javascript-%EB%AA%A8%EB%93%88-Module) <br/>

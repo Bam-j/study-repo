@@ -40,7 +40,8 @@
 5-3. [파일 업로드, 다운로드](https://velog.io/@bami/GitGitHub-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90-%ED%8C%8C%EC%9D%BC-%EC%98%AC%EB%A6%AC%EA%B8%B0%EC%99%80-%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0) <br/>
 5-4. [원격 저장소 파일 삭제](https://velog.io/@bami/GitGithub-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%A7%80%EC%9A%B0%EA%B8%B0) <br/>
 5-5. [원격 저장소 복제, git clone](https://velog.io/@bami/Git-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%9D%98-%EB%B3%B5%EC%A0%9C-git-clone) <br/>
-5-6. [git fetch](https://velog.io/@bami/Git-fetch)
+5-6. [git fetch](https://velog.io/@bami/Git-fetch) <br/>
+5-7. [리포지토리 메뉴 알아보기](https://velog.io/@bami/GitHub-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%9D%98-%ED%83%AD-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) <br/>
 
 ### 번외
 [Vim](https://velog.io/@bami/GitVim-Vim-%EA%B8%B0%EC%B4%88-%EB%B0%B0%EC%9A%B0%EA%B8%B0) <br/>

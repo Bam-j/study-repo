@@ -25,6 +25,7 @@
 2-11. [미디어 관련 태그](https://velog.io/@bami/HTML-%EB%AF%B8%EB%94%94%EC%96%B4-%EA%B4%80%EB%A0%A8-%ED%83%9C%EA%B7%B8) <br/>
 2-12. [style 태그](https://velog.io/@bami/HTML-style-%ED%83%9C%EA%B7%B8) <br/>
 2-13. [link, @import](https://velog.io/@bami/HTML-link%ED%83%9C%EA%B7%B8%EB%A1%9C-%EC%99%B8%EB%B6%80-%ED%8C%8C%EC%9D%BC-%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0) <br/>
+2-14. [canvas 태그](https://velog.io/@bami/HTML-canvas-%ED%83%9C%EA%B7%B8) <br/>
 
 ### 3. 구조
 3-1. [div와 span](https://velog.io/@bami/HTML-div%EC%99%80-span) <br/>

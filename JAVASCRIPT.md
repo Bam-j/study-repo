@@ -123,6 +123,7 @@ console.log('Hello world!');
 9-8. [다크 모드](https://velog.io/@bami/%EB%8B%A4%ED%81%AC-%EB%AA%A8%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0) <br/>
 9-9. [팝업창](https://velog.io/@bami/%ED%8C%9D%EC%97%85%EC%B0%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0) <br/>
 9-10. [CSS-in-JS](https://velog.io/@bami/CSS-in-JS) <br/>
+9-11. [Canvas API](https://velog.io/@bami/Javascript-Canvas-API) <br/>
 
 ### 번외  
 - [코딩 컨벤션](https://velog.io/@bami/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98) <br/>

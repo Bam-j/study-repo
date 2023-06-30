@@ -6,6 +6,7 @@
 1-1. [타입스크립트](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8) <br/>
 1-2. [타입스크립트 시작](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1) <br/>
 1-3. [tsconfig.json](https://velog.io/@bami/Typescript-tsconfig.json) <br/>
+1-4. [타입스크립트 프로젝트 생성](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) <br/>
 
 ### 2. 타입과 객체
 2-1. [타입, 타입 주석, 타입 추론](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B3%80%EC%88%98) <br/>

@@ -11,11 +11,12 @@
 ### 2. 타입과 객체
 2-1. [타입, 타입 주석, 타입 추론](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B3%80%EC%88%98) <br/>
 2-2. [기본 타입 - 원시 타입, 리터럴 타입](https://velog.io/@bami/Typescript-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85-%EC%9B%90%EC%8B%9C-%ED%83%80%EC%9E%85-%EB%A6%AC%ED%84%B0%EB%9F%B4-%ED%83%80%EC%9E%85) <br/>
-2-3. [타입 단언](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8) <br/>
-2-4. [배열](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4) <br/>
-2-5. [배열 메소드 filter, map, reduce](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%86%8C%EB%93%9C-filter-map-reduce) <br/>
-2-6. [인터페이스](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) <br/>
-2-7. [클래스](https://velog.io/@bami/Typescript-%ED%81%B4%EB%9E%98%EC%8A%A4) <br/>
+2-3. [기본 타입 - 배열, 튜플](https://velog.io/@bami/Typescript-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85-%EB%B0%B0%EC%97%B4-%ED%8A%9C%ED%94%8C) <br/>
+2-4. [타입 단언](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8) <br/>
+2-5. [배열](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4) <br/>
+2-6. [배열 메소드 filter, map, reduce](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%86%8C%EB%93%9C-filter-map-reduce) <br/>
+2-7. [인터페이스](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) <br/>
+2-8. [클래스](https://velog.io/@bami/Typescript-%ED%81%B4%EB%9E%98%EC%8A%A4) <br/>
 
 ### 3. 함수
 3-1. [함수](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%95%A8%EC%88%98) <br/>

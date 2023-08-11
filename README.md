@@ -15,10 +15,9 @@
 
 <hr/>
 
-## [skill]
+## [Tools]
 ### - [Git](https://github.com/Bam-j/study-repo/blob/main/GIT.md) <br/>
 ### - [Database](https://github.com/Bam-j/study-repo/blob/main/DATABASE.md) <br/>
-### - [Data Structure](https://github.com/Bam-j/study-repo/blob/main/DATA_STRUCTURE.md) <br/>
 
 <hr/>
 
@@ -26,6 +25,7 @@
 ### - [Computer Science](https://github.com/Bam-j/study-repo/blob/main/CS.md) <br/>
 ### - [Network](https://github.com/Bam-j/study-repo/blob/main/NETWORK.md) <br/>
 ### - [Algorithm](https://github.com/Bam-j/study-repo/blob/main/ALGORITHM.md) <br/>
+### - [Data Structure](https://github.com/Bam-j/study-repo/blob/main/DATA_STRUCTURE.md) <br/>
 ### - [Design Pattern](https://github.com/Bam-j/study-repo/blob/main/DESIGN_PATTERN.md) <br/>
 
 <hr/>

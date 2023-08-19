@@ -22,10 +22,10 @@
 3-1. [인터페이스](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) <br/>
 3-2. [클래스](https://velog.io/@bami/Typescript-%ED%81%B4%EB%9E%98%EC%8A%A4) <br/>
 
-### 3. 함수
-3-1. [함수](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%95%A8%EC%88%98) <br/>
-3-2. [메소드](https://velog.io/@bami/Typescript-%EB%A9%94%EC%86%8C%EB%93%9C) <br/>
-3-3. [순수 함수와 readonly](https://velog.io/@bami/Typescript-readonly%EC%99%80-%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98) <br/>
+### 4. 함수
+4-1. [함수](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%95%A8%EC%88%98) <br/>
+4-2. [메소드](https://velog.io/@bami/Typescript-%EB%A9%94%EC%86%8C%EB%93%9C) <br/>
+4-3. [순수 함수와 readonly](https://velog.io/@bami/Typescript-readonly%EC%99%80-%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98) <br/>
 
 ### 번외
 [Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>

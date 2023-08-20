@@ -39,6 +39,7 @@ console.log('Hello world!');
 3-8. [전개 연산자 ...](https://velog.io/@bami/Javascript-%EC%A0%84%EA%B0%9C-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
 3-9. [Nullish Coalescing Operator](https://velog.io/@bami/Javascript-Nullish-Coalescing-Operator) <br/>
 3-10. [~ 연산자](https://velog.io/@bami/Javascript) <br>
+3-11. [** 연산자](https://velog.io/@bami/Javascript-%EA%B1%B0%EB%93%AD-%EC%A0%9C%EA%B3%B1-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
 
 
 ### 4. 제어구문
@@ -88,6 +89,7 @@ console.log('Hello world!');
 6-18. [Iterator, Generator](https://velog.io/@bami/Javascript-Iterator-Generator) <br/>
 6-19. [String.replaceAll()](https://velog.io/@bami/Javascript-String.replaceAll) <br>
 6-20. [원본 배열을 변경하는 Array 객체 메소드](https://velog.io/@bami/Javascript-%EC%9B%90%EB%B3%B8-%EB%B0%B0%EC%97%B4%EC%9D%84-%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94-Array-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%A9%94%EC%86%8C%EB%93%9C) <br>
+6-21. [Array.flat(), Array.at()](https://velog.io/@bami/Javascript-Array.prototype.flat-Array.prototype.at) <br/>
 
 ### 7. 프로토타입과 클래스
 7-1. [프로토타입](https://velog.io/@bami/Javascript-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85) <br/>
@@ -125,6 +127,7 @@ console.log('Hello world!');
 9-10. [CSS-in-JS](https://velog.io/@bami/CSS-in-JS) <br/>
 9-11. [Canvas API](https://velog.io/@bami/Javascript-Canvas-API) <br/>
 9-12. [html2canvas](https://velog.io/@bami/Javascript-html2canvas) <br/>
+9-13. [단축 평가](https://velog.io/@bami/Javascript-Short-Circuit-Evaluation) <br/>
 
 ### 번외  
 - [코딩 컨벤션](https://velog.io/@bami/Javascript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98) <br/>

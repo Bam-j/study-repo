@@ -18,7 +18,8 @@
 2-7. [타입 별칭](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%B3%84%EC%B9%AD-Type-Alias) <br/>
 2-8. [타입 단언](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8) <br/>
 2-9. [배열](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4) <br/>
-2-10. [배열 메소드 filter, map, reduce](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%86%8C%EB%93%9C-filter-map-reduce) <br/>
+2-10. [객체](https://velog.io/@bami/Typescript-%EA%B0%9D%EC%B2%B4) <br/>
+2-11. [배열 메소드 filter, map, reduce](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%86%8C%EB%93%9C-filter-map-reduce) <br/>
 
 ### 3. 객체
 3-1. [인터페이스](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) <br/>

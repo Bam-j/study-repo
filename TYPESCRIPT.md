@@ -20,6 +20,7 @@
 2-9. [배열](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4) <br/>
 2-10. [객체](https://velog.io/@bami/Typescript-%EA%B0%9D%EC%B2%B4) <br/>
 2-11. [Union Type & Intersection Type](https://velog.io/@bami/Typescript-Union-Type-Intersection-Type) <br/>
+2-12. [타입 추론](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EC%B6%94%EB%A1%A0) <br/>
 
 ### 3. 객체
 3-1. [인터페이스](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) <br/>

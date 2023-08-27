@@ -16,7 +16,7 @@
 2-5. [any, unknown, void, never](https://velog.io/@bami/Typescript-any-unknown-void-never) <br/>
 2-6. [타입 계층과 호환](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0%EC%99%80-%ED%83%80%EC%9E%85-%ED%98%B8%ED%99%98%EC%84%B1) <br/>
 2-7. [타입 별칭](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%B3%84%EC%B9%AD-Type-Alias) <br/>
-2-8. [타입 단언](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8) <br/>
+2-8. [타입 단언](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8-Type-Assertion) <br/>
 2-9. [배열](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4) <br/>
 2-10. [객체](https://velog.io/@bami/Typescript-%EA%B0%9D%EC%B2%B4) <br/>
 2-11. [Union Type & Intersection Type](https://velog.io/@bami/Typescript-Union-Type-Intersection-Type) <br/>

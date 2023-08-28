@@ -13,15 +13,14 @@
 2-2. [기본 타입 - 원시 타입, 리터럴 타입](https://velog.io/@bami/Typescript-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85-%EC%9B%90%EC%8B%9C-%ED%83%80%EC%9E%85-%EB%A6%AC%ED%84%B0%EB%9F%B4-%ED%83%80%EC%9E%85) <br/>
 2-3. [기본 타입 - 배열, 튜플](https://velog.io/@bami/Typescript-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85-%EB%B0%B0%EC%97%B4-%ED%8A%9C%ED%94%8C) <br/>
 2-4. [Enum 타입](https://velog.io/@bami/Typescript-Enum-%ED%83%80%EC%9E%85) <br/>
-2-5. [any, unknown, void, never](https://velog.io/@bami/Typescript-any-unknown-void-never) <br/>
-2-6. [타입 계층과 호환](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0%EC%99%80-%ED%83%80%EC%9E%85-%ED%98%B8%ED%99%98%EC%84%B1) <br/>
-2-7. [타입 별칭](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%B3%84%EC%B9%AD-Type-Alias) <br/>
-2-8. [타입 단언](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8-Type-Assertion) <br/>
-2-9. [타입 좁히기](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EC%A2%81%ED%9E%88%EA%B8%B0-Type-Narrowing) <br/>
-2-10. [배열](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4) <br/>
-2-11. [객체](https://velog.io/@bami/Typescript-%EA%B0%9D%EC%B2%B4) <br/>
-2-12. [Union Type & Intersection Type](https://velog.io/@bami/Typescript-Union-Type-Intersection-Type) <br/>
-2-13. [타입 추론](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EC%B6%94%EB%A1%A0) <br/>
+2-5. [객체](https://velog.io/@bami/Typescript-%EA%B0%9D%EC%B2%B4) <br/>
+2-6. [any, unknown, void, never](https://velog.io/@bami/Typescript-any-unknown-void-never) <br/>
+2-7. [타입 계층과 호환](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0%EC%99%80-%ED%83%80%EC%9E%85-%ED%98%B8%ED%99%98%EC%84%B1) <br/>
+2-8. [Union Type & Intersection Type](https://velog.io/@bami/Typescript-Union-Type-Intersection-Type) <br/>
+2-9. [타입 별칭](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%B3%84%EC%B9%AD-Type-Alias) <br/>
+2-10. [타입 추론](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EC%B6%94%EB%A1%A0) <br/>
+2-11. [타입 단언](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8-Type-Assertion) <br/>
+2-12. [타입 좁히기](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EC%A2%81%ED%9E%88%EA%B8%B0-Type-Narrowing) <br/>
 
 ### 3. 객체
 3-1. [인터페이스](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) <br/>

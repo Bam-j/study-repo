@@ -27,7 +27,7 @@
 3-2. [클래스](https://velog.io/@bami/Typescript-%ED%81%B4%EB%9E%98%EC%8A%A4) <br/>
 
 ### 4. 함수
-4-1. [함수](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%95%A8%EC%88%98) <br/>
+4-1. [함수](https://velog.io/@bami/Typescript-%ED%95%A8%EC%88%98) <br/>
 4-2. [메소드](https://velog.io/@bami/Typescript-%EB%A9%94%EC%86%8C%EB%93%9C) <br/>
 4-3. [배열 메소드 filter, map, reduce](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%86%8C%EB%93%9C-filter-map-reduce) <br/>
 4-4. [순수 함수와 readonly](https://velog.io/@bami/Typescript-readonly%EC%99%80-%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98) <br/>

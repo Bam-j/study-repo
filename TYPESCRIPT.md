@@ -22,8 +22,9 @@
 2-11. [타입 단언](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8-Type-Assertion) <br/>
 2-12. [타입 좁히기](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EC%A2%81%ED%9E%88%EA%B8%B0-Type-Narrowing) <br/>
 
-### 3. 함수
+### 3. 함수, 인터페이스
 3-1. [함수](https://velog.io/@bami/Typescript-%ED%95%A8%EC%88%98) <br/>
+3-2. [함수 호환성](https://velog.io/@bami/Typescript-%ED%95%A8%EC%88%98-%ED%98%B8%ED%99%98%EC%84%B1) <br/>
 3-2. [순수 함수와 readonly](https://velog.io/@bami/Typescript-readonly%EC%99%80-%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98) <br/>
 
 ### 4. 기타

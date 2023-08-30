@@ -25,7 +25,9 @@
 ### 3. 함수, 인터페이스
 3-1. [함수](https://velog.io/@bami/Typescript-%ED%95%A8%EC%88%98) <br/>
 3-2. [함수 호환성](https://velog.io/@bami/Typescript-%ED%95%A8%EC%88%98-%ED%98%B8%ED%99%98%EC%84%B1) <br/>
-3-2. [순수 함수와 readonly](https://velog.io/@bami/Typescript-readonly%EC%99%80-%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98) <br/>
+3-4. [인터페이스](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-k1a7jvn6) <br/>
+3-5. [인터페이스 vs 타입 별칭](https://velog.io/@bami/Typescript-Interface-vs-Type-Alias) <br/>
+3-6. [순수 함수와 readonly](https://velog.io/@bami/Typescript-readonly%EC%99%80-%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98) <br/>
 
 ### 4. 기타
 4-1. [배열 메소드 filter, map, reduce](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%86%8C%EB%93%9C-filter-map-reduce) <br/>

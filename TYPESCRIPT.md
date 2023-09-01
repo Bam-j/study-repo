@@ -7,6 +7,7 @@
 1-2. [타입스크립트 시작](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1) <br/>
 1-3. [tsconfig.json](https://velog.io/@bami/Typescript-tsconfig.json) <br/>
 1-4. [타입스크립트 프로젝트 생성](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8) <br/>
+1-5. [웹에서 타입스크립트 실행하기](https://velog.io/@bami/Typescript-%EC%9B%B9%EC%97%90%EC%84%9C-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0) <br/>
 
 ### 2. 기본 타입
 2-1. [타입, 타입 주석, 타입 추론](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B3%80%EC%88%98) <br/>

@@ -26,12 +26,13 @@
 ### 3. 함수, 인터페이스, 클래스, 제네릭
 3-1. [함수](https://velog.io/@bami/Typescript-%ED%95%A8%EC%88%98) <br/>
 3-2. [함수 호환성](https://velog.io/@bami/Typescript-%ED%95%A8%EC%88%98-%ED%98%B8%ED%99%98%EC%84%B1) <br/>
-3-4. [인터페이스](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-k1a7jvn6) <br/>
-3-5. [인터페이스 vs 타입 별칭](https://velog.io/@bami/Typescript-Interface-vs-Type-Alias) <br/>
-3-6. [클래스](https://velog.io/@bami/Typescript-%ED%81%B4%EB%9E%98%EC%8A%A4-d1ue0kw2) <br/>
-3-7. [implements](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A1%9C-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B5%AC%ED%98%84) <br/>
-3-8. [순수 함수와 readonly](https://velog.io/@bami/Typescript-readonly%EC%99%80-%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98) <br/>
-3-9. [제네릭](https://velog.io/@bami/Typescript-%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85) <br/>
+3-3. [인터페이스](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-k1a7jvn6) <br/>
+3-4. [인터페이스 vs 타입 별칭](https://velog.io/@bami/Typescript-Interface-vs-Type-Alias) <br/>
+3-5. [클래스](https://velog.io/@bami/Typescript-%ED%81%B4%EB%9E%98%EC%8A%A4-d1ue0kw2) <br/>
+3-6. [implements](https://velog.io/@bami/Typescript-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A1%9C-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B5%AC%ED%98%84) <br/>
+3-7. [순수 함수와 readonly](https://velog.io/@bami/Typescript-readonly%EC%99%80-%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98) <br/>
+3-8. [제네릭](https://velog.io/@bami/Typescript-%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85) <br/>
+3-9. [제네릭 활용](https://velog.io/@bami/Typescript-%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%99%9C%EC%9A%A9) <br/>
 
 ### 4. 기타
 4-1. [배열 메소드 filter, map, reduce](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%86%8C%EB%93%9C-filter-map-reduce) <br/>

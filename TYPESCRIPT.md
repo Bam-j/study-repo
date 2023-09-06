@@ -22,6 +22,7 @@
 2-10. [타입 추론](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EC%B6%94%EB%A1%A0) <br/>
 2-11. [타입 단언](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EB%8B%A8%EC%96%B8-Type-Assertion) <br/>
 2-12. [타입 좁히기](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EC%A2%81%ED%9E%88%EA%B8%B0-Type-Narrowing) <br/>
+2-13. [typeof 연산자](https://velog.io/@bami/Typescript-keyof-%ED%83%80%EC%9E%85-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
 
 ### 3. 함수, 인터페이스, 클래스, 제네릭
 3-1. [함수](https://velog.io/@bami/Typescript-%ED%95%A8%EC%88%98) <br/>

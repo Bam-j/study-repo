@@ -27,6 +27,7 @@
 3-10. [텍스트 가운데 정렬](https://velog.io/@bami/CSS-DIV-%EC%98%81%EC%97%AD-%EB%82%B4%EB%B6%80-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A0%95%EB%A0%AC) <br/>
 3-11. [transform](https://velog.io/@bami/CSS-tranform) <br/>
 3-12. [transition](https://velog.io/@bami/CSS-transition) <br/>
+3-13. [animation](https://velog.io/@bami/CSS-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98) <br/>
 
 ### 4. 반응형 웹 디자인
 4-1. [반응형 웹 디자인, 뷰포트](https://velog.io/@bami/CSS-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC-%EB%B7%B0%ED%8F%AC%ED%8A%B8) <br>

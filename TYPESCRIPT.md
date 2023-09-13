@@ -24,6 +24,7 @@
 2-12. [타입 좁히기](https://velog.io/@bami/Typescript-%ED%83%80%EC%9E%85-%EC%A2%81%ED%9E%88%EA%B8%B0-Type-Narrowing) <br/>
 2-13. [typeof 연산자](https://velog.io/@bami/Typescript-keyof-%ED%83%80%EC%9E%85-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
 2-14. [Indexed Access Types](https://velog.io/@bami/Typescript-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%93%9C-%EC%97%91%EC%84%B8%EC%8A%A4-%ED%83%80%EC%9E%85) <br/>
+2-15. [Template Literal Types](https://velog.io/@bami/Typescript-Template-Literal-Types)<br/>
 
 ### 3. 함수, 인터페이스, 클래스, 제네릭
 3-1. [함수](https://velog.io/@bami/Typescript-%ED%95%A8%EC%88%98) <br/>

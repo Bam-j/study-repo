@@ -90,6 +90,7 @@ console.log('Hello world!');
 6-19. [String.replaceAll()](https://velog.io/@bami/Javascript-String.replaceAll) <br>
 6-20. [원본 배열을 변경하는 Array 객체 메소드](https://velog.io/@bami/Javascript-%EC%9B%90%EB%B3%B8-%EB%B0%B0%EC%97%B4%EC%9D%84-%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94-Array-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%A9%94%EC%86%8C%EB%93%9C) <br>
 6-21. [Array.flat(), Array.at()](https://velog.io/@bami/Javascript-Array.prototype.flat-Array.prototype.at) <br/>
+6-22. [sort()로 정렬하기](https://velog.io/@bami/Javascript-Array.prototype.sort%EC%99%80-%EC%98%A4%EB%A6%84%EC%B0%A8%EC%88%9C-%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C-%EC%A0%95%EB%A0%AC) <br/>
 
 ### 7. 프로토타입과 클래스
 7-1. [프로토타입](https://velog.io/@bami/Javascript-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85) <br/>

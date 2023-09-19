@@ -41,3 +41,4 @@
 - [5장 형식 맞추기](https://velog.io/@bami/Clean-Code-5%EC%9E%A5-%ED%98%95%EC%8B%9D-%EB%A7%9E%EC%B6%94%EA%B8%B0) <br>
 - [6장 객체와 자료구조](https://velog.io/@bami/Clean-Code-6%EC%9E%A5-%EA%B0%9D%EC%B2%B4%EC%99%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) <br>
 - [7장 오류 처리](https://velog.io/@bami/Clean-Code-7%EC%9E%A5-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC) <br>
+- [8장 경계](https://velog.io/@bami/Clean-Code-8%EC%9E%A5-%EA%B2%BD%EA%B3%84) <br>

@@ -10,8 +10,11 @@
 - [함수형 프로그래밍](https://velog.io/@bami/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br>
 - [비구조적/구조적 프로그래밍](https://velog.io/@bami/%EB%B9%84%EA%B5%AC%EC%A1%B0%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%EA%B5%AC%EC%A1%B0%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br/>
 - [인터프리터 방식과 컴파일러 방식 비교](https://velog.io/@bami/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-%EB%B0%A9%EC%8B%9D%EA%B3%BC-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EB%B0%A9%EC%8B%9D) <br/>
+
+#### 소프트웨어 공학
 - [소프트웨어 개발 프로세스](https://velog.io/@bami/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-7z3wby3l) <br/>
 - [소프트웨어 개발 - 계획](https://velog.io/@bami/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EA%B3%84%ED%9A%8D) <br/>
+- [소프트웨어 개발 - 요구분석](https://velog.io/@bami/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D) <br/>
 
 ### 웹 개발
 - [프론트엔드와 백엔드](https://velog.io/@bami/Front-end-Back-end) <br/>

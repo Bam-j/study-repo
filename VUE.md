@@ -13,7 +13,8 @@ UI를 작성하는 웹 프레임워크 `Vue.js`에 대해 다룹니다.
 
 ### 2. Vue.js 문법
 2-1. [템플릿 문법 - 데이터 바인딩과 디렉티브](https://velog.io/@bami/Vue.js-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%AC%B8%EB%B2%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B0%94%EC%9D%B8%EB%94%A9-%EB%94%94%EB%A0%89%ED%8B%B0%EB%B8%8C) <br/>
-2-2. [props](https://velog.io/@bami/Vue.js-props) <br/>
+2-2. [빌트인 디렉티브](https://velog.io/@bami/Vue.js-%EB%B9%8C%ED%8A%B8%EC%9D%B8-%EB%94%94%EB%A0%89%ED%8B%B0%EB%B8%8C) <br/>
+2-3. [props](https://velog.io/@bami/Vue.js-props) <br/>
 
 ---
 [블로그 Vue.js 카테고리](https://velog.io/@bami/series/Vue.js)

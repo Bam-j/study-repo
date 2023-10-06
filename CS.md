@@ -21,6 +21,7 @@
 - [소프트웨어 개발 - 구현](https://velog.io/@bami/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EA%B5%AC%ED%98%84) <br/>
 - [소프트웨어 개발 - 테스트](https://velog.io/@bami/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8) <br/>
 - [소프트웨어 품질](https://velog.io/@bami/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%92%88%EC%A7%88) <br/>
+- [프로젝트 관리](https://velog.io/@bami/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC) <br/>
 
 ### 웹 개발
 - [프론트엔드와 백엔드](https://velog.io/@bami/Front-end-Back-end) <br/>

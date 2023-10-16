@@ -25,6 +25,7 @@
 
 #### 디지털 논리회로
 - [디지털과 아날로그](https://velog.io/@bami/%EB%94%94%EC%A7%80%ED%84%B8%EA%B3%BC-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8) <br/>
+- [2진수, 8진수, 10진수, 16진수](https://velog.io/@bami/2%EC%A7%84%EC%88%98-8%EC%A7%84%EC%88%98-10%EC%A7%84%EC%88%98-16%EC%A7%84%EC%88%98)<br/>
 
 ### 웹 개발
 - [프론트엔드와 백엔드](https://velog.io/@bami/Front-end-Back-end) <br/>

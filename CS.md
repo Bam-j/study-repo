@@ -23,6 +23,9 @@
 - [소프트웨어 품질](https://velog.io/@bami/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%ED%92%88%EC%A7%88) <br/>
 - [프로젝트 관리](https://velog.io/@bami/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC) <br/>
 
+#### 디지털 논리회로
+- [디지털과 아날로그](https://velog.io/@bami/%EB%94%94%EC%A7%80%ED%84%B8%EA%B3%BC-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8) <br/>
+
 ### 웹 개발
 - [프론트엔드와 백엔드](https://velog.io/@bami/Front-end-Back-end) <br/>
 - [정적/동적 웹 페이지](https://velog.io/@bami/%EC%A0%95%EC%A0%81-%EC%9B%B9-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%99%80-%EB%8F%99%EC%A0%81-%EC%9B%B9-%ED%8E%98%EC%9D%B4%EC%A7%80) <br/>

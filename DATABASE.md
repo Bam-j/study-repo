@@ -20,10 +20,13 @@
 2-9. [문자열 타입, 시간 타입](https://velog.io/@bami/MySQL-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%83%80%EC%9E%85) <br/>
 
 ### 3. NoSQL - MongoDB
-2-1. [MongoDB](https://velog.io/@bami/MongoDB-%EB%AA%BD%EA%B3%A0DB) <br/>
-2-2. [BSON](https://velog.io/@bami/MongoDB-BSON) <br/>
-2-3. [DB, 컬렉션, 도큐먼트 (삽입, 삭제)](https://velog.io/@bami/MongoDB-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%BB%AC%EB%A0%89%EC%85%98) <br/>
-2-4. [find()와 쿼리](https://velog.io/@bami/MongoDB-find%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
-2-5. [update()](https://velog.io/@bami/MongoDB-update%EC%99%80-%EA%B8%B0%EC%A1%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0) <br/>
+3-1. [MongoDB](https://velog.io/@bami/MongoDB-%EB%AA%BD%EA%B3%A0DB) <br/>
+3-2. [BSON](https://velog.io/@bami/MongoDB-BSON) <br/>
+3-3. [DB, 컬렉션, 도큐먼트 (삽입, 삭제)](https://velog.io/@bami/MongoDB-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%BB%AC%EB%A0%89%EC%85%98) <br/>
+3-4. [find()와 쿼리](https://velog.io/@bami/MongoDB-find%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
+3-5. [update()](https://velog.io/@bami/MongoDB-update%EC%99%80-%EA%B8%B0%EC%A1%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0) <br/>
+
+### 4. Oracle DB
+4-1. [Oracle DB](https://velog.io/@bami/Oracle-%EC%98%A4%EB%9D%BC%ED%81%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-m83lpn9e) <br/> 
 
 ---

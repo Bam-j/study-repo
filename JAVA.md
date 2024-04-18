@@ -129,3 +129,4 @@
 11-7. [TCP 네트워킹](https://velog.io/@bami/JAVA-TCP-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9) <br/>
 11-8. [UDP 네트워킹](https://velog.io/@bami/Java-UDP-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9) <br/>
 11-9. [동시 요청 처리 서버](https://velog.io/@bami/Java-%EB%8F%99%EC%8B%9C-%EC%9A%94%EC%B2%AD-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84) <br/>
+11-10. [JDBC](https://velog.io/@bami/Java-JDBC) <br/>

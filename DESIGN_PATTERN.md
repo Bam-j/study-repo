@@ -15,3 +15,4 @@ Head First Design Pattern 도서와 학교 수업을 바탕으로 디자인 패�
 ### - [이터레이터 패턴](https://velog.io/@bami/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4-Iterator-Pattern) <br/>
 ### - [스테이트 패턴](https://velog.io/@bami/%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%8A%B8-%ED%8C%A8%ED%84%B4-State-Pattern) <br/>
 ### - [프록시 패턴](https://velog.io/@bami/%ED%94%84%EB%A1%9D%EC%8B%9C-%ED%8C%A8%ED%84%B4-Proxy-Pattern) <br/>
+### - [빌더 패턴](https://velog.io/@bami/Builder-Pattern) <br/>

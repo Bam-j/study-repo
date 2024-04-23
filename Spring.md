@@ -12,3 +12,4 @@
 - [스프링 Annotation](https://velog.io/@bami/Spring-Annotation) <br/>
 - [DAO, DTO, VO](https://velog.io/@bami/Spring-DAO-DTO-VO) <br/>
 - [Lombok 라이브러리](https://velog.io/@bami/Spring-Lombok-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC) <br/>
+- [Lombok - @Builder](https://velog.io/@bami/SpringLombok-Builder) <br/>

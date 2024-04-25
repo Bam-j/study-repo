@@ -1,6 +1,9 @@
 # Spring
-자바 스프링 프레임워크에 대한 내용을 다룹니다. <hr>
+자바 스프링 프레임워크에 대한 내용을 다룹니다. <br>
+스프링 외에도 관련있는 롬복, 스프링 부트 등에 대한 내용도 함께 다룹니다.
+<hr>
 
+## Spring & Spring Boot
 - [Spring](https://velog.io/@bami/Spring-Spring) <br/>
 - [Spring Boot](https://velog.io/@bami/Spring-Spring-Boot) <br/>
 - [Spring Initializr](https://velog.io/@bami/Spring-Spring-Initializr) <br/>
@@ -13,3 +16,9 @@
 - [DAO, DTO, VO](https://velog.io/@bami/Spring-DAO-DTO-VO) <br/>
 - [Lombok 라이브러리](https://velog.io/@bami/Spring-Lombok-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC) <br/>
 - [Lombok - @Builder](https://velog.io/@bami/SpringLombok-Builder) <br/>
+
+<hr>
+
+## Servlet
+- [Servlet](https://velog.io/@bami/Servlet-Java-Servlet) <br/>
+- [Servlet 작성](https://velog.io/@bami/Servlet-%EC%84%9C%EB%B8%94%EB%A6%BF-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0) <br/>

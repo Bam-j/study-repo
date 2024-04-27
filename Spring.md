@@ -22,3 +22,4 @@
 ## Servlet
 - [Servlet](https://velog.io/@bami/Servlet-Java-Servlet) <br/>
 - [Servlet 작성](https://velog.io/@bami/Servlet-%EC%84%9C%EB%B8%94%EB%A6%BF-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0) <br/>
+- [<form> 태그 요청 응답 처리](https://velog.io/@bami/Servlet-form-%ED%83%9C%EA%B7%B8-%EC%9A%94%EC%B2%AD-%EC%9D%91%EB%8B%B5-92mzvi97) <br/>

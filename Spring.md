@@ -25,3 +25,5 @@
 - [<form> 태그 요청 응답 처리 - GET](https://velog.io/@bami/Servlet-form-%ED%83%9C%EA%B7%B8-%EC%9A%94%EC%B2%AD-%EC%9D%91%EB%8B%B5-92mzvi97) <br/>
 - [<form> 태그 요청 응답 처리 - POST](https://velog.io/@bami/Servlet-POST-%EC%9A%94%EC%B2%AD-%EC%B2%98%EB%A6%AC) <br/>
 - [자바스크립트에서 서블릿에 요청하기](https://velog.io/@bami/Servlet-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EC%84%9C%EB%B8%94%EB%A6%BF%EC%97%90-%EC%9A%94%EC%B2%AD%ED%95%98%EA%B8%B0) <br/>
+- [서블릿 DB 연동](https://velog.io/@bami/Servlet-Servlet%EA%B3%BC-DB-%EC%97%B0%EB%8F%99) <br/>
+- [DataSource를 사용한 DB 연동](https://velog.io/@bami/Servlet-DataSource) <br/>

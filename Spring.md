@@ -31,3 +31,5 @@
 - [Servlet Forward](https://velog.io/@bami/Servlet-%EC%84%9C%EB%B8%94%EB%A6%BF-%ED%8F%AC%EC%9B%8C%EB%93%9C) <br/>
 - [Servlet Binding](https://velog.io/@bami/Servlet-%EB%B0%94%EC%9D%B8%EB%94%A9) <br/>
 - [ServletContext 클래스](https://velog.io/@bami/Servlet-ServletContext-%ED%81%B4%EB%9E%98%EC%8A%A4) <br/>
+- [세션 트래킹 - hidden 속성, URL Writing](https://velog.io/@bami/Servlet-%EC%84%B8%EC%85%98-%ED%8A%B8%EB%9E%98%ED%82%B9-hidden-URL-Writing) <br/>
+- [세션 트래킹 - 쿠키](https://velog.io/@bami/Servlet-%EC%84%B8%EC%85%98-%ED%8A%B8%EB%9E%98%ED%82%B9-%EC%BF%A0%ED%82%A4) <br/>

@@ -33,3 +33,5 @@
 - [ServletContext 클래스](https://velog.io/@bami/Servlet-ServletContext-%ED%81%B4%EB%9E%98%EC%8A%A4) <br/>
 - [세션 트래킹 - hidden 속성, URL Writing](https://velog.io/@bami/Servlet-%EC%84%B8%EC%85%98-%ED%8A%B8%EB%9E%98%ED%82%B9-hidden-URL-Writing) <br/>
 - [세션 트래킹 - 쿠키](https://velog.io/@bami/Servlet-%EC%84%B8%EC%85%98-%ED%8A%B8%EB%9E%98%ED%82%B9-%EC%BF%A0%ED%82%A4) <br/>
+- [세션 트래킹 - 세션](https://velog.io/@bami/Servlet-%EC%84%B8%EC%85%98-%ED%8A%B8%EB%9E%98%ED%82%B9-%EC%84%B8%EC%85%98) <br/>
+- [encodeURL()](https://velog.io/@bami/Servlet-encodeURL) <br/>

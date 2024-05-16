@@ -39,4 +39,6 @@
 <hr>
 
 ## JSP
--- [JSP](https://velog.io/@bami/JSP-JSP) <br/>
+- [JSP](https://velog.io/@bami/JSP-JSP) <br/>
+- [디렉티브 태그](https://velog.io/@bami/JSP-%EB%94%94%EB%A0%89%ED%8B%B0%EB%B8%8C-%ED%83%9C%EA%B7%B8) <br/>
+- [스크립트 요소](https://velog.io/@bami/JSP-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9A%94%EC%86%8C) <br/>

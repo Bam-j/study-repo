@@ -16,6 +16,7 @@
 - [DAO, DTO, VO](https://velog.io/@bami/Spring-DAO-DTO-VO) <br/>
 - [Lombok 라이브러리](https://velog.io/@bami/Spring-Lombok-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC) <br/>
 - [Lombok - @Builder](https://velog.io/@bami/SpringLombok-Builder) <br/>
+- [application.properties & application.yml](https://velog.io/@bami/application.properties-application.yml) <br/>
 
 <hr>
 
@@ -42,3 +43,18 @@
 - [JSP](https://velog.io/@bami/JSP-JSP) <br/>
 - [디렉티브 태그](https://velog.io/@bami/JSP-%EB%94%94%EB%A0%89%ED%8B%B0%EB%B8%8C-%ED%83%9C%EA%B7%B8) <br/>
 - [스크립트 요소](https://velog.io/@bami/JSP-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9A%94%EC%86%8C) <br/>
+- [내장 객체](https://velog.io/@bami/JSP-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4) <br/>
+- [예외 처리 페이지](https://velog.io/@bami/JSP-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-%ED%8E%98%EC%9D%B4%EC%A7%80) <br/>
+- [시작 페이지](https://velog.io/@bami/ServletJSP-%EC%8B%9C%EC%9E%91-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0) <br/>
+- [액션 태그 - 인클루드 액션 태그](https://velog.io/@bami/JSP-%EC%95%A1%EC%85%98-%ED%83%9C%EA%B7%B8-%EC%9D%B8%ED%81%B4%EB%A3%A8%EB%93%9C-%EC%95%A1%EC%85%98-%ED%83%9C%EA%B7%B8) <br/>
+- [액션 태그 - 포워드 액션 태그](https://velog.io/@bami/JSP-%EC%95%A1%EC%85%98-%ED%83%9C%EA%B7%B8-%ED%8F%AC%EC%9B%8C%EB%93%9C-%EC%95%A1%EC%85%98-%ED%83%9C%EA%B7%B8) <br/>
+- [표현 언어 EL](https://velog.io/@bami/JSP-%ED%91%9C%ED%98%84-%EC%96%B8%EC%96%B4-EL) <br/>
+- [표현 언어 - 내장 객체](https://velog.io/@bami/JSP-%ED%91%9C%ED%98%84-%EC%96%B8%EC%96%B4-%EB%82%B4%EC%9E%A5-%EA%B0%9D%EC%B2%B4) <br/>
+
+<hr>
+
+## JSTL
+- [JSTL](https://velog.io/@bami/JSTL-JSTL) <br/>
+- [Core 태그 라이브러리](https://velog.io/@bami/JSTL-Core-%ED%83%9C%EA%B7%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC) <br/>
+- [포매팅 태그, 문자열 처리 함수](https://velog.io/@bami/JSTL-%ED%8F%AC%EB%A7%A4%ED%8C%85-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%B2%98%EB%A6%AC-%ED%95%A8%EC%88%98) <br/>
+- 

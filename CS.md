@@ -4,13 +4,14 @@
 항목을 나누는게 조금 어려운데, 계속해서 카테고리 정리를 통해 좀 더 깔끔한 카테고리가 되도록 지속적으로 노력하겠습니다.
 
 ---
-### 전공
+### 컴퓨터 공학
 - [테스트 주도 개발](https://velog.io/@bami/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C) <br>
 - [명령형 프로그래밍과 선언형 프로그래밍](https://velog.io/@bami/%EB%AA%85%EB%A0%B9%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%EC%84%A0%EC%96%B8%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br>
 - [함수형 프로그래밍](https://velog.io/@bami/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br>
 - [비구조적/구조적 프로그래밍](https://velog.io/@bami/%EB%B9%84%EA%B5%AC%EC%A1%B0%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%EA%B5%AC%EC%A1%B0%EC%A0%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br/>
 - [인터프리터 방식과 컴파일러 방식 비교](https://velog.io/@bami/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-%EB%B0%A9%EC%8B%9D%EA%B3%BC-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EB%B0%A9%EC%8B%9D) <br/>
 - [객체지향 프로그래밍](https://velog.io/@bami/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br/>
+- [SOLID 원칙](https://velog.io/@bami/SOLID-%EC%9B%90%EC%B9%99) <br/>
 
 #### 소프트웨어 공학
 - [소프트웨어 개발 프로세스](https://velog.io/@bami/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-7z3wby3l) <br/>
@@ -49,6 +50,7 @@
 - [오픈 소스 소프트웨어](https://velog.io/@bami/%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4) <br>
 - [클라우드 컴퓨팅](https://velog.io/@bami/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85) <br>
 - [부동소수점](https://velog.io/@bami/%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90-%ED%91%9C%ED%98%84)<br/>
+- [Linux 명령어 모음](https://velog.io/@bami/Linux-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C) <br/>
 
 ### 독서 - 클린 코드
 - [1장, 2장 의미 있는 이름](https://velog.io/@bami/Clean-Code-2%EC%9E%A5-%EC%9D%98%EB%AF%B8-%EC%9E%88%EB%8A%94-%EC%9D%B4%EB%A6%84) <br>

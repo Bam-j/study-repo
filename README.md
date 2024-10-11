@@ -6,6 +6,7 @@
 ---
 ## [Language & Framework]
 ### - [Java](https://github.com/Bam-j/study-repo/blob/main/JAVA.md) <br/>
+### - [Spring](https://velog.io/@bami/series/Spring) <br/>
 ### - [HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>
 ### - [CSS](https://github.com/Bam-j/study-repo/blob/main/CSS.md) <br/>
 ### - [Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
@@ -28,10 +29,11 @@
 ### - [Algorithm](https://github.com/Bam-j/study-repo/blob/main/ALGORITHM.md) <br/>
 ### - [Data Structure](https://github.com/Bam-j/study-repo/blob/main/DATA_STRUCTURE.md) <br/>
 ### - [Design Pattern](https://github.com/Bam-j/study-repo/blob/main/DESIGN_PATTERN.md) <br/>
+### - [Software Engineering](https://velog.io/@bami/series/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99) <br/>
 
 <hr/>
 
 ## [etc.]
 ### - [독서록 - Clean Code](https://velog.io/@bami/Clean-Code-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C) <br/>
 ### - [프로젝트](https://velog.io/@bami/series/projects) <br/>
-### - [에러일기](https://velog.io/@bami/series/%EC%97%90%EB%9F%AC-%EC%9D%BC%EA%B8%B0) <br/>
+### - [에러 모음](https://velog.io/@bami/series/%EC%97%90%EB%9F%AC-%EC%9D%BC%EA%B8%B0) <br/>

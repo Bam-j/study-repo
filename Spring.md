@@ -18,6 +18,7 @@
 - [Lombok - @Builder](https://velog.io/@bami/SpringLombok-Builder) <br/>
 - [application.properties & application.yml](https://velog.io/@bami/application.properties-application.yml) <br/>
 - [의존관계 주입 DI, @Autowired](https://velog.io/@bami/Spring-DI-Dependency-Injection-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%A3%BC%EC%9E%85-it9qrvtg) <br/>
+- [제어 관계 역전 IoC](https://velog.io/@bami/Spring-IoC-Inversion-of-Control-%EC%A0%9C%EC%96%B4-%EA%B4%80%EA%B3%84-%EC%97%AD%EC%A0%84) <br/>
 
 <hr>
 
@@ -58,4 +59,3 @@
 - [JSTL](https://velog.io/@bami/JSTL-JSTL) <br/>
 - [Core 태그 라이브러리](https://velog.io/@bami/JSTL-Core-%ED%83%9C%EA%B7%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC) <br/>
 - [포매팅 태그, 문자열 처리 함수](https://velog.io/@bami/JSTL-%ED%8F%AC%EB%A7%A4%ED%8C%85-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%B2%98%EB%A6%AC-%ED%95%A8%EC%88%98) <br/>
-- 

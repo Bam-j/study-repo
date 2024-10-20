@@ -17,6 +17,7 @@
 - [Lombok 라이브러리](https://velog.io/@bami/Spring-Lombok-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC) <br/>
 - [Lombok - @Builder](https://velog.io/@bami/SpringLombok-Builder) <br/>
 - [application.properties & application.yml](https://velog.io/@bami/application.properties-application.yml) <br/>
+- [의존관계 주입 DI, @Autowired](https://velog.io/@bami/Spring-DI-Dependency-Injection-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%A3%BC%EC%9E%85-it9qrvtg) <br/>
 
 <hr>
 

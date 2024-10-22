@@ -20,6 +20,8 @@
 - [의존관계 주입 DI, @Autowired](https://velog.io/@bami/Spring-DI-Dependency-Injection-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84-%EC%A3%BC%EC%9E%85-it9qrvtg) <br/>
 - [제어 관계 역전 IoC](https://velog.io/@bami/Spring-IoC-Inversion-of-Control-%EC%A0%9C%EC%96%B4-%EA%B4%80%EA%B3%84-%EC%97%AD%EC%A0%84) <br/>
 - [DL, ObjectProvider](https://velog.io/@bami/Spring-DL%EA%B3%BC-Provider) <br/>
+- [Bean Lifecycle Callbacks](https://velog.io/@bami/Spring-Bean-Lifecycle-Callbacks) <br/>
+- [@ComponentScan](https://velog.io/@bami/Spring-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%8A%A4%EC%BA%94) <br/>
 
 <hr>
 

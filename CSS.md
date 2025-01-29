@@ -1,8 +1,11 @@
 # CSS
+
 웹 페이지에 다양한 효과를 부여해주는 CSS입니다.
 
 ---
+
 ### 1. CSS 시작
+
 1-1. [CSS 소개](https://velog.io/@bami/CSS-CSS-%EC%86%8C%EA%B0%9C) <br/>
 1-2. [CSS 적용](https://velog.io/@bami/CSS-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%8B%9C%ED%8A%B8-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) <br/>
 1-2. [캐스케이딩](https://velog.io/@bami/CSS-Cascading) <br/>
@@ -10,11 +13,13 @@
 1-4. [웹 폰트](https://velog.io/@bami/CSS-%EC%9B%B9-%ED%8F%B0%ED%8A%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) <br/>
 
 ### 2. 셀렉터
+
 2-1. [기초 셀렉터 5가지](https://velog.io/@bami/CSS-%EC%85%80%EB%A0%89%ED%84%B01) <br/>
 2-2. [연결 셀렉터](https://velog.io/@bami/CSS-%EC%85%80%EB%A0%89%ED%84%B02-%EC%97%B0%EA%B2%B0-%EC%85%80%EB%A0%89%ED%84%B0) <br/>
 2-3. [속성 셀렉터](https://velog.io/@bami/CSS-%EC%85%80%EB%A0%89%ED%84%B03-%EC%86%8D%EC%84%B1-%EC%85%80%EB%A0%89%ED%84%B0) <br/>
 
 ### 3. CSS 활용
+
 3-1. [가상 요소와 가상 클래스](https://velog.io/@bami/CSS-%EA%B0%80%EC%83%81-%EC%9A%94%EC%86%8C%EC%99%80-%EA%B0%80%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4) <br/>
 3-2. [웹 요소의 크기 단위](https://velog.io/@bami/CSS-%EC%9A%94%EC%86%8C%EC%9D%98-%ED%81%AC%EA%B8%B0-%EB%8B%A8%EC%9C%84) <br/>
 3-3. [margin & padding](https://velog.io/@bami/CSS-%EB%A7%88%EC%A7%84margin%EA%B3%BC-%ED%8C%A8%EB%94%A9padding) <br/>
@@ -28,14 +33,17 @@
 3-11. [transform](https://velog.io/@bami/CSS-tranform) <br/>
 3-12. [transition](https://velog.io/@bami/CSS-transition) <br/>
 3-13. [animation](https://velog.io/@bami/CSS-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98) <br/>
+3-14. [변수 var()](https://velog.io/@bami/CSS-CSS-%EB%B3%80%EC%88%98-var-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) <br/>
 
 ### 4. 반응형 웹 디자인
+
 4-1. [반응형 웹 디자인, 뷰포트](https://velog.io/@bami/CSS-%EB%B0%98%EC%9D%91%ED%98%95-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC-%EB%B7%B0%ED%8F%AC%ED%8A%B8) <br>
 4-2. [미디어 쿼리](https://velog.io/@bami/CSS-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%BF%BC%EB%A6%AC) <br/>
 4-3. [그리드 레이아웃](https://velog.io/@bami/CSS-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83) <br/>
 4-4. [플렉스 박스 레이아웃](https://velog.io/@bami/CSS-%ED%94%8C%EB%A0%89%EC%8A%A4-%EB%B0%95%EC%8A%A4-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83) <br/>
 
 ### 5. 전처리기 SCSS
+
 5-1. [SCSS 소개](https://velog.io/@bami/SCSS-SASSSCSS) <br/>
 5-2. [SCSS 컴파일](https://velog.io/@bami/SCSS-SCSS-%EC%BB%B4%ED%8C%8C%EC%9D%BC) <br/>
 5-3. [변수](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%951) <br/>
@@ -44,10 +52,12 @@
 5-6. [연산자와 연산](https://velog.io/@bami/SCSS-SCSS-%EB%AC%B8%EB%B2%954-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
 
 ### 6. UI
+
 6-1. [모달](https://velog.io/@bami/%EB%AA%A8%EB%8B%AC-%EC%B0%BD-Modal) <br/>
 6-2. [슬라이드 메뉴](https://velog.io/@bami/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EB%A9%94%EB%89%B4) <br/>
 
 ### 번외
+
 [Bootstrap](https://velog.io/@bami/Bootstrap-%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) <br>
 [HTML](https://github.com/Bam-j/study-repo/blob/main/HTML.md) <br/>
 [Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>

@@ -37,3 +37,4 @@
 ### - [독서록 - Clean Code](https://velog.io/@bami/Clean-Code-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C) <br/>
 ### - [프로젝트](https://velog.io/@bami/series/projects) <br/>
 ### - [에러 모음](https://velog.io/@bami/series/%EC%97%90%EB%9F%AC-%EC%9D%BC%EA%B8%B0) <br/>
+### - [코딩테스트 풀이](https://glow-dryer-c98.notion.site/42dd0401cfbb4b8a996a1fe27df49270) <br/>

@@ -23,7 +23,4 @@
 - [[검색] 해시 충돌 해결](https://bamtory29.tistory.com/entry/Javascript-%ED%95%B4%EC%8B%9C-%EC%B6%A9%EB%8F%8C%EC%9D%98-%ED%95%B4%EA%B2%B0?category=993790) <br/>
 
 ### 2. 코딩테스트 연습
-- <del>[코딩테스트 풀이 코드 리포지토리](https://github.com/Bam-j/algorithm-study) <br/></del>
 - [코딩테스트 문제 풀이와 해답 노션](https://glow-dryer-c98.notion.site/42dd0401cfbb4b8a996a1fe27df49270?pvs=4) <br/>
-
-### 3. 기타 문제

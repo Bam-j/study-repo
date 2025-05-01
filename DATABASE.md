@@ -13,7 +13,6 @@
 1-5. [관계 데이터 모델](https://velog.io/@bami/RDBM-%EA%B4%80%EA%B3%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8) <br/>
 1-6. [SQL](https://velog.io/@bami/RDBMS-SQL) <br/>
 
-
 ### 2. MySQL
 
 2-1. [MySQL](https://velog.io/@bami/MySQL-MySQL) <br/>
@@ -25,6 +24,10 @@
 2-7. [데이터 제어문](https://velog.io/@bami/MySQL-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%9C%EC%96%B4%EB%AC%B8-DCL) <br/>
 2-8. [숫자 타입](https://velog.io/@bami/MySQL-%EC%88%AB%EC%9E%90-%ED%83%80%EC%9E%85) <br/>
 2-9. [문자열 타입, 시간 타입](https://velog.io/@bami/MySQL-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%83%80%EC%9E%85) <br/>
+2-10. [내장함수](https://velog.io/@bami/MySQL-%EB%82%B4%EC%9E%A5-%ED%95%A8%EC%88%98) <br/>
+2-11. [부속질의](https://velog.io/@bami/MySQL-%EB%B6%80%EC%86%8D%EC%A7%88%EC%9D%98) <br/>
+2-12. [뷰](https://velog.io/@bami/MySQL-%EB%B7%B0) <br/>
+2-13. [인덱스](https://velog.io/@bami/MySQL-%EC%9D%B8%EB%8D%B1%EC%8A%A4) <br/>
 
 ### 3. NoSQL - MongoDB
 

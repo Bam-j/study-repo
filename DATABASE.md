@@ -28,6 +28,9 @@
 2-11. [부속질의](https://velog.io/@bami/MySQL-%EB%B6%80%EC%86%8D%EC%A7%88%EC%9D%98) <br/>
 2-12. [뷰](https://velog.io/@bami/MySQL-%EB%B7%B0) <br/>
 2-13. [인덱스](https://velog.io/@bami/MySQL-%EC%9D%B8%EB%8D%B1%EC%8A%A4) <br/>
+2-14. [프로시저](https://velog.io/@bami/MySQL-%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80) <br/>
+2-15. [트리거](https://velog.io/@bami/MySQL-%ED%8A%B8%EB%A6%AC%EA%B1%B0) <br/>
+2-16. [사용자 정의 함수](https://velog.io/@bami/MySQL-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%ED%95%A8%EC%88%98) <br/>
 
 ### 3. NoSQL - MongoDB
 

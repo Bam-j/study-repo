@@ -16,6 +16,7 @@
 ### 2. 데이터베이스 설계
 
 2-1. [데이터 모델링](https://velog.io/@bami/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81) <br/>
+2-2. [ER 모델과 ERD](https://velog.io/@bami/ER-%EB%AA%A8%EB%8D%B8%EA%B3%BC-ER-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8) <br/>
 
 ### 3. MySQL
 

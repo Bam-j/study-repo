@@ -17,6 +17,8 @@
 
 2-1. [데이터 모델링](https://velog.io/@bami/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81) <br/>
 2-2. [ER 모델과 ERD](https://velog.io/@bami/ER-%EB%AA%A8%EB%8D%B8%EA%B3%BC-ER-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8) <br/>
+2-3. [ER 모델 Crow-feet 표기](https://velog.io/@bami/ER-%EB%AA%A8%EB%8D%B8%EA%B3%BC-Crow-feet-%ED%91%9C%EA%B8%B0%EB%B2%95) <br/>
+2-4. [논리적 모델링 매핑](https://velog.io/@bami/ER-%EB%AA%A8%EB%8D%B8-%EB%85%BC%EB%A6%AC%EC%A0%81-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EB%A7%A4%ED%95%91) <br/>
 
 ### 3. MySQL
 

@@ -19,6 +19,8 @@
 2-2. [ER 모델과 ERD](https://velog.io/@bami/ER-%EB%AA%A8%EB%8D%B8%EA%B3%BC-ER-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8) <br/>
 2-3. [ER 모델 Crow-feet 표기](https://velog.io/@bami/ER-%EB%AA%A8%EB%8D%B8%EA%B3%BC-Crow-feet-%ED%91%9C%EA%B8%B0%EB%B2%95) <br/>
 2-4. [논리적 모델링 매핑](https://velog.io/@bami/ER-%EB%AA%A8%EB%8D%B8-%EB%85%BC%EB%A6%AC%EC%A0%81-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EB%A7%A4%ED%95%91) <br/>
+2-5. [정규화](https://velog.io/@bami/%EC%A0%95%EA%B7%9C%ED%99%94) <br/>
+2-6. [트랜잭션](https://velog.io/@bami/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98) <br/>
 
 ### 3. MySQL
 

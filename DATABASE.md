@@ -22,6 +22,7 @@
 2-5. [정규화](https://velog.io/@bami/%EC%A0%95%EA%B7%9C%ED%99%94) <br/>
 2-6. [트랜잭션](https://velog.io/@bami/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98) <br/>
 2-7. [동시성 제어](https://velog.io/@bami/%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4) <br/>
+2-8. [회복](https://velog.io/@bami/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%9A%8C%EB%B3%B5) <br/>
 
 ### 3. MySQL
 

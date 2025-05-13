@@ -28,6 +28,11 @@
 
 <hr>
 
+## JPA
+- [JPA](https://velog.io/@bami/JPA) <br/>
+
+<hr>
+
 ## Servlet
 
 - [Servlet](https://velog.io/@bami/Servlet-Java-Servlet) <br/>

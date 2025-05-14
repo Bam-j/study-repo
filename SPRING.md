@@ -30,6 +30,7 @@
 
 ## JPA
 - [JPA](https://velog.io/@bami/JPA) <br/>
+- [영속성 컨텍스트](https://velog.io/@bami/%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8) <br/>
 
 <hr>
 

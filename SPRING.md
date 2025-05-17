@@ -29,11 +29,13 @@
 <hr>
 
 ## JPA
+
 - [JPA](https://velog.io/@bami/JPA) <br/>
 - [영속성 컨텍스트](https://velog.io/@bami/%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8) <br/>
 - [테이블 매핑 - @Entity, @Table](https://velog.io/@bami/JPA-%EA%B0%9D%EC%B2%B4-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%A7%A4%ED%95%91-Entity-Table) <br/>
 - [기본 키 매핑 - @Id](https://velog.io/@bami/JPA-%EA%B8%B0%EB%B3%B8-%ED%82%A4-%EB%A7%A4%ED%95%91-Id) <br/>
 - [컬럼 매핑](https://velog.io/@bami/JPA-%EC%BB%AC%EB%9F%BC-%EB%A7%A4%ED%95%91) <br/>
+- [연관관계 매핑 - 단방향 연관관계](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84) <br/>
 
 <hr>
 

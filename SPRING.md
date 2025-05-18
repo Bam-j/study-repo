@@ -36,6 +36,8 @@
 - [기본 키 매핑 - @Id](https://velog.io/@bami/JPA-%EA%B8%B0%EB%B3%B8-%ED%82%A4-%EB%A7%A4%ED%95%91-Id) <br/>
 - [컬럼 매핑](https://velog.io/@bami/JPA-%EC%BB%AC%EB%9F%BC-%EB%A7%A4%ED%95%91) <br/>
 - [연관관계 매핑 - 단방향 연관관계](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84) <br/>
+- [연관관계 매핑 - 양방향 연관관계](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-%EC%96%91%EB%B0%A9%ED%96%A5-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84) <br/>
+- [연관관계 매핑 - N:1, 1:N](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-N1-1N) <br/>
 
 <hr>
 

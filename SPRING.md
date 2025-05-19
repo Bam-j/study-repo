@@ -38,6 +38,8 @@
 - [연관관계 매핑 - 단방향 연관관계](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84) <br/>
 - [연관관계 매핑 - 양방향 연관관계](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-%EC%96%91%EB%B0%A9%ED%96%A5-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84) <br/>
 - [연관관계 매핑 - N:1, 1:N](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-N1-1N) <br/>
+- [연관관계 매핑 - 1:1](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-11) <br/>
+- [연관관계 매핑 - M:N](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-MN) <br/>
 
 <hr>
 

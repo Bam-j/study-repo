@@ -40,6 +40,7 @@
 - [연관관계 매핑 - N:1, 1:N](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-N1-1N) <br/>
 - [연관관계 매핑 - 1:1](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-11) <br/>
 - [연관관계 매핑 - M:N](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-MN) <br/>
+- [상속 관계 매핑](https://velog.io/@bami/JPA-%EC%83%81%EC%86%8D-%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91) <br/>
 
 <hr>
 

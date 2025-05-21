@@ -41,6 +41,7 @@
 - [연관관계 매핑 - 1:1](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-11) <br/>
 - [연관관계 매핑 - M:N](https://velog.io/@bami/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-MN) <br/>
 - [상속 관계 매핑](https://velog.io/@bami/JPA-%EC%83%81%EC%86%8D-%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91) <br/>
+- [복합 키와 식별/비식별 관계 매핑](https://velog.io/@bami/JPA-%EB%B3%B5%ED%95%A9-%ED%82%A4%EC%99%80-%EC%8B%9D%EB%B3%84%EB%B9%84%EC%8B%9D%EB%B3%84-%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91) <br/>
 
 <hr>
 

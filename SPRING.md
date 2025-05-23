@@ -45,6 +45,7 @@
 - [조인 테이블 매핑](https://velog.io/@bami/JPA-%EC%A1%B0%EC%9D%B8-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%A7%A4%ED%95%91) <br/>
 - [즉시 로딩, 지연 로딩](https://velog.io/@bami/JPA-%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80-%EC%A6%89%EC%8B%9C-%EB%A1%9C%EB%94%A9-%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9) <br/>
 - [영속성 전이, 고아 객체](https://velog.io/@bami/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%A0%84%EC%9D%B4) </br>
+- [값 타입](https://velog.io/@bami/JPA-%EA%B0%92-%ED%83%80%EC%9E%85) <br/>
 
 <hr>
 

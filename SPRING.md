@@ -47,6 +47,7 @@
 - [영속성 전이, 고아 객체](https://velog.io/@bami/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%A0%84%EC%9D%B4) </br>
 - [값 타입](https://velog.io/@bami/JPA-%EA%B0%92-%ED%83%80%EC%9E%85) <br/>
 - [JPQL](https://velog.io/@bami/JPA-JPQL) <br/>
+- [Spring Data JPA](https://velog.io/@bami/JPA-Spring-Data-JPA) <br/>
 
 <hr>
 

@@ -52,6 +52,7 @@
 4-4. [find()와 쿼리](https://velog.io/@bami/MongoDB-find%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>
 4-5. [update()](https://velog.io/@bami/MongoDB-update%EC%99%80-%EA%B8%B0%EC%A1%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0) <br/>
 
-### 5. Oracle DB
+### 5. 기타 DBMS
 
 5-1. [Oracle DB](https://velog.io/@bami/Oracle-%EC%98%A4%EB%9D%BC%ED%81%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-m83lpn9e) <br/>
+5-2. [H2 Database](https://velog.io/@bami/H2-Database) <br/>

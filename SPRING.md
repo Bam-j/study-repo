@@ -48,6 +48,7 @@
 - [값 타입](https://velog.io/@bami/JPA-%EA%B0%92-%ED%83%80%EC%9E%85) <br/>
 - [JPQL](https://velog.io/@bami/JPA-JPQL) <br/>
 - [Spring Data JPA](https://velog.io/@bami/JPA-Spring-Data-JPA) <br/>
+- [N+1 문제](https://velog.io/@bami/JPA-N1-%EB%AC%B8%EC%A0%9C) <br/>
 
 <hr>
 

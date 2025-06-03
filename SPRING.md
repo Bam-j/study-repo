@@ -50,6 +50,8 @@
 - [Spring Data JPA](https://velog.io/@bami/JPA-Spring-Data-JPA) <br/>
 - [N+1 문제](https://velog.io/@bami/JPA-N1-%EB%AC%B8%EC%A0%9C) <br/>
 - [영속성 관리](https://velog.io/@bami/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EA%B4%80%EB%A6%AC) <br/>
+- [리스너](https://velog.io/@bami/JPA-%EB%A6%AC%EC%8A%A4%EB%84%88) <br/>
+- [성능 최적화](https://velog.io/@bami/JPA-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94) <br/>
 
 <hr>
 

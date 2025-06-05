@@ -28,6 +28,7 @@
 2-6. [배열](https://velog.io/@bami/Java-%EB%B0%B0%EC%97%B4) <br/>
 2-7. [문자열 String](https://velog.io/@bami/Java-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%83%80%EC%9E%85-String) <br/>
 2-8. [열거형 Enum](https://velog.io/@bami/Java-%EC%97%B4%EA%B1%B0%ED%98%95-Enum) <br/>
+2-9. [문자열 변환 String.valueOf()와 +""의 차이](https://velog.io/@bami/Java-String.valueOf%EC%99%80-%EC%9D%98-%EC%B0%A8%EC%9D%B4) <br/>
 
 ### 3. 연산자
 3-1. [연산자](https://velog.io/@bami/Java-%EC%97%B0%EC%82%B0%EC%9E%90) <br/>

@@ -19,6 +19,7 @@
 2-8. [tracked, untracked](https://velog.io/@bami/Git-tracked-%ED%8C%8C%EC%9D%BC) <br/>
 2-9. [tracked 파일 상태 변화](https://velog.io/@bami/Git-tracked-%ED%8C%8C%EC%9D%BC%EC%9D%98-%EC%83%81%ED%83%9C-%EB%B3%80%ED%99%94) <br/>
 2-10. [git stash](https://velog.io/@bami/Git-git-stash) <br/>
+2-11. [커밋 메시지 작성 방법](https://velog.io/@bami/%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95) <br/>
 
 ### 3. 브랜치와 충돌
 3-1. [브랜치 소개](https://velog.io/@bami/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-Branch) <br/>

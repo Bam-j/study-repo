@@ -25,7 +25,8 @@
 - [[검색] 해시](https://bamtory29.tistory.com/entry/Javascript-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94?category=993790) <br/>
 - [[검색] 해시 충돌 해결](https://bamtory29.tistory.com/entry/Javascript-%ED%95%B4%EC%8B%9C-%EC%B6%A9%EB%8F%8C%EC%9D%98-%ED%95%B4%EA%B2%B0?category=993790) <br/>
 - [에라스토테네스의 체](https://velog.io/@bami/%EC%97%90%EB%9D%BC%EC%8A%A4%ED%86%A0%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98-%EC%B2%B4-%EC%86%8C%EC%88%98-%EC%B0%BE%EA%B8%B0-8di9wwv7) <br/>
-- [[DP] DP 개념과 피보나치 수열](https://velog.io/@bami/DP-Dynamic-Programming-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98%EC%97%B4) <br/>
+- [DP 개념과 피보나치 수열](https://velog.io/@bami/DP-Dynamic-Programming-%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98-%EC%88%98%EC%97%B4) <br/>
+- [그래프 탐색 - DFS, BFS](https://velog.io/@bami/%EA%B7%B8%EB%9E%98%ED%94%84-%ED%83%90%EC%83%89-DFS-BFS) <br/>
 
 ### 2. 코딩테스트 연습
 

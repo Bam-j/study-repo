@@ -1,5 +1,5 @@
 # Typescript
-자바스크립트에 엄격한 타입을 주어 에러를 방지하는 슈퍼셋 언어인 타입스크립트를 소개드립니다.
+`JS`의 슈퍼셋 엄격한 타입의 `Typescript`입니다.
 
 ---
 ### 1. 타입스크립트 시작하기
@@ -40,8 +40,5 @@
 ### 4. 기타
 4-1. [배열 메소드 filter, map, reduce](https://velog.io/@bami/Typescript-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%86%8C%EB%93%9C-filter-map-reduce) <br/>
 
-### 번외
+### JS로 돌아가기
 [Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
-
----
-[블로그 타입스크립트 카테고리](https://velog.io/@bami/series/Typescript) <br/>

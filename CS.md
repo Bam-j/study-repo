@@ -28,6 +28,7 @@
 ### 운영체제
 - [운영체제](https://velog.io/@bami/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C) <br/>
 - [프로세스 관리 - 프로세스](https://velog.io/@bami/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4) <br/>
+- [프로세스 관리 - 프로세스 스케줄링](https://velog.io/@bami/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81) <br/>
 
 ### 디지털 논리회로
 - [디지털과 아날로그](https://velog.io/@bami/%EB%94%94%EC%A7%80%ED%84%B8%EA%B3%BC-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8) <br/>

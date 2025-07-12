@@ -34,6 +34,7 @@
 - [기억장치 관리 - 기억장치 관리 기법](https://velog.io/@bami/%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98-%EA%B4%80%EB%A6%AC-%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98-%EA%B4%80%EB%A6%AC-%EA%B8%B0%EB%B2%95) <br/>
 - [가상 메모리 관리 - 페이징](https://velog.io/@bami/%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%8E%98%EC%9D%B4%EC%A7%95) <br/>
 - [가상 메모리 관리 - 세그먼테이션](https://velog.io/@bami/%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98-lvkov61m) <br/>
+- [가상 메모리 관리 - 페이지 교체 알고리즘](https://velog.io/@bami/%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%90%EC%B2%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) <br/>
 
 ### 디지털 논리회로
 - [디지털과 아날로그](https://velog.io/@bami/%EB%94%94%EC%A7%80%ED%84%B8%EA%B3%BC-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8) <br/>

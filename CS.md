@@ -39,6 +39,7 @@
 - [디스크 스케줄링 - 디스크 스케줄링 알고리즘](https://velog.io/@bami/%EB%94%94%EC%8A%A4%ED%81%AC-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) <br/>
 - [파일 시스템 - 파일 시스템](https://velog.io/@bami/%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C) <br/>
 - [파일 시스템 - 디렉토리 구조](https://velog.io/@bami/%ED%8C%8C%EC%9D%BC-%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80-%EA%B2%BD%EB%A1%9C%EC%99%80-%EC%83%81%EB%8C%80-%EA%B2%BD%EB%A1%9C) <br/>
+- [프로세스 간 동기화 및 통신 - 임계 구역](https://velog.io/@bami/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EA%B0%84-%EB%8F%99%EA%B8%B0%ED%99%94-%EB%B0%8F-%ED%86%B5%EC%8B%A0-%EC%9E%84%EA%B3%84-%EA%B5%AC%EC%97%AD) <br/>
 
 ### 디지털 논리회로
 - [디지털과 아날로그](https://velog.io/@bami/%EB%94%94%EC%A7%80%ED%84%B8%EA%B3%BC-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8) <br/>

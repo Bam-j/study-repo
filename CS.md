@@ -44,6 +44,7 @@
 - [프로세스 간 동기화 및 통신 - 세마포, 모니터](https://velog.io/@bami/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%84-%EB%8F%99%EA%B8%B0%ED%99%94-%EB%B0%8F-%ED%86%B5%EC%8B%A0-%EC%84%B8%EB%A7%88%ED%8F%AC-%EB%AA%A8%EB%8B%88%ED%84%B0) <br/>
 - [교착 상태](https://velog.io/@bami/%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C) <br/>
 - [교착 상태 - 예방, 회피, 탐지, 회복](https://velog.io/@bami/%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C-%EC%98%88%EB%B0%A9-%ED%9A%8C%ED%94%BC-%ED%83%90%EC%A7%80-%ED%9A%8C%EB%B3%B5) <br/>
+- [정보 보호](https://velog.io/@bami/%EC%A0%95%EB%B3%B4-%EB%B3%B4%ED%98%B8) <br />
 
 ### 디지털 논리회로
 - [디지털과 아날로그](https://velog.io/@bami/%EB%94%94%EC%A7%80%ED%84%B8%EA%B3%BC-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8) <br/>

@@ -45,6 +45,7 @@
 - [교착 상태](https://velog.io/@bami/%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C) <br/>
 - [교착 상태 - 예방, 회피, 탐지, 회복](https://velog.io/@bami/%EA%B5%90%EC%B0%A9-%EC%83%81%ED%83%9C-%EC%98%88%EB%B0%A9-%ED%9A%8C%ED%94%BC-%ED%83%90%EC%A7%80-%ED%9A%8C%EB%B3%B5) <br/>
 - [정보 보호](https://velog.io/@bami/%EC%A0%95%EB%B3%B4-%EB%B3%B4%ED%98%B8) <br />
+- [정보 보안 - 보안 위협](https://velog.io/@bami/%EC%A0%95%EB%B3%B4-%EB%B3%B4%EC%95%88) <br/>
 
 ### 디지털 논리회로
 - [디지털과 아날로그](https://velog.io/@bami/%EB%94%94%EC%A7%80%ED%84%B8%EA%B3%BC-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8) <br/>

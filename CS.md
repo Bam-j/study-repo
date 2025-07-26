@@ -1,4 +1,4 @@
-<img width="1272" height="702" alt="image" src="https://github.com/user-attachments/assets/50c575dd-a2b2-4f95-8f06-13ac07966d4c" /># Computer Science
+# Computer Science
 컴퓨터 공학 지식들을 다루는 항목입니다. <br/>
 학사 과정 내에서 배운 지식들을 모두 다루면 좋겠지만, 우선적으로 웹과 관련된 내용을 우선적으로 수록하겠습니다. <br/>
 항목을 나누는게 조금 어려운데, 계속해서 카테고리 정리를 통해 좀 더 깔끔한 카테고리가 되도록 지속적으로 노력하겠습니다.

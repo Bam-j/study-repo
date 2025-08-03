@@ -11,7 +11,7 @@
 ### - [CSS](https://github.com/Bam-j/study-repo/blob/main/CSS.md) <br/>
 ### - [Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
 ### - [Typescript](https://github.com/Bam-j/study-repo/blob/main/TYPESCRIPT.md) <br/>
-### - [React](https://github.com/Bam-j/react-study/blob/main/README.md) <br/>
+### - [React.js](https://github.com/Bam-j/react-study/blob/main/README.md) <br/>
 ### - [Vue.js](https://github.com/Bam-j/study-repo/blob/main/VUE.md) <br/>
 ### - [Node.js](https://github.com/Bam-j/node-study/blob/main/README.md) <br/>
 

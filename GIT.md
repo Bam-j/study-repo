@@ -44,6 +44,9 @@
 5-6. [git fetch](https://velog.io/@bami/Git-fetch) <br/>
 5-7. [리포지토리 메뉴 알아보기](https://velog.io/@bami/GitHub-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%9D%98-%ED%83%AD-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) <br/>
 
+### 6. 저장소 관리
+- [서브 모듈](https://velog.io/@bami/%EC%84%9C%EB%B8%8C-%EB%AA%A8%EB%93%88) <br/>
+
 ### 번외
 [Vim](https://velog.io/@bami/GitVim-Vim-%EA%B8%B0%EC%B4%88-%EB%B0%B0%EC%9A%B0%EA%B8%B0) <br/>
 [깃 명령어 정리](https://bamtory29.tistory.com/entry/Git-%EA%B9%83-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC?category=988312) <br/>

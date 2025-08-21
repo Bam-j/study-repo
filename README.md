@@ -11,7 +11,7 @@
 ### - [CSS](https://github.com/Bam-j/study-repo/blob/main/CSS.md) <br/>
 ### - [Javascript](https://github.com/Bam-j/study-repo/blob/main/JAVASCRIPT.md) <br/>
 ### - [Typescript](https://github.com/Bam-j/study-repo/blob/main/TYPESCRIPT.md) <br/>
-### - [React](https://github.com/Bam-j/react-study/blob/main/README.md) <br/>
+### - [React.js](https://github.com/Bam-j/react-study/blob/main/README.md) <br/>
 ### - [Vue.js](https://github.com/Bam-j/study-repo/blob/main/VUE.md) <br/>
 ### - [Node.js](https://github.com/Bam-j/node-study/blob/main/README.md) <br/>
 
@@ -31,5 +31,4 @@
 <hr/>
 
 ## [etc.]
-### - [에러 모음](https://velog.io/@bami/series/%EC%97%90%EB%9F%AC-%EC%9D%BC%EA%B8%B0) <br/>
-### - [코딩테스트 풀이](https://glow-dryer-c98.notion.site/42dd0401cfbb4b8a996a1fe27df49270) <br/>
+### - [코딩테스트 풀이(노션 링크)](https://glow-dryer-c98.notion.site/42dd0401cfbb4b8a996a1fe27df49270) <br/>

@@ -20,7 +20,7 @@
 ## [Computer Science]
 ### - [Computer Science](https://github.com/Bam-j/study-repo/blob/main/CS.md)
 컴퓨터 공학 일반, 소프트웨어 공학, 운영체제, 웹 개발 일반 내용을 다룹니다.<br/>
-### - [Git](https://github.com/Bam-j/study-repo/blob/main/GIT.md) <br/>
+### - [Git & GitHub](https://github.com/Bam-j/study-repo/blob/main/GIT.md) <br/>
 ### - [Database](https://github.com/Bam-j/study-repo/blob/main/DATABASE.md) <br/>
 ### - [Network](https://github.com/Bam-j/study-repo/blob/main/NETWORK.md) <br/>
 ### - [Docker](https://github.com/Bam-j/study-repo/blob/main/Docker.md) <br/>

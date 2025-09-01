@@ -56,3 +56,4 @@
 
 5-1. [Oracle DB](https://velog.io/@bami/Oracle-%EC%98%A4%EB%9D%BC%ED%81%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-m83lpn9e) <br/>
 5-2. [H2 Database](https://velog.io/@bami/H2-Database) <br/>
+5-3. [Redis](https://velog.io/@bami/Redis) <br/>

@@ -12,6 +12,21 @@
 - [객체지향 프로그래밍](https://velog.io/@bami/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br/>
 - [SOLID 원칙](https://velog.io/@bami/SOLID-%EC%9B%90%EC%B9%99) <br/>
 
+### 데이터 통신
+- [네트워크 개요](https://velog.io/@bami/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EC%9A%94#%ED%8C%A8%ED%82%B7) <br/>
+- [OSI, TCP/IP 모델](https://velog.io/@bami/OSI-%EB%AA%A8%EB%8D%B8%EA%B3%BC-TCPIP-%EB%AA%A8%EB%8D%B8) <br/>
+- [1 계층: 물리 계층](https://velog.io/@bami/1%EA%B3%84%EC%B8%B5-%EB%AC%BC%EB%A6%AC-%EA%B3%84%EC%B8%B5) <br/>
+- [모뎀, DSU, 코덱](https://velog.io/@bami/%EB%AA%A8%EB%8E%80-DSU-%EC%BD%94%EB%8D%B1) <br/>
+- [2 계층: 데이터 링크 계층](https://velog.io/@bami/2%EA%B3%84%EC%B8%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%81%ED%81%AC-%EA%B3%84%EC%B8%B5) <br/>
+- [스위치](https://velog.io/@bami/%EC%8A%A4%EC%9C%84%EC%B9%98#%EA%B0%80%EC%83%81-%ED%9A%8C%EC%84%A0) <br/>
+- [3 계층: 네트워크 계층](https://velog.io/@bami/3%EA%B3%84%EC%B8%B5-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%84%EC%B8%B5) <br/>
+- [서브넷, 슈퍼넷](https://velog.io/@bami/%EC%84%9C%EB%B8%8C%EB%84%B7-%EC%8A%88%ED%8D%BC%EB%84%B7) <br/>
+- [라우터](https://velog.io/@bami/%EB%9D%BC%EC%9A%B0%ED%84%B0) <br/>
+- [4 계층: 전송 계층](https://velog.io/@bami/%EC%A0%9C4-%EA%B3%84%EC%B8%B5-%EC%A0%84%EC%86%A1-%EA%B3%84%EC%B8%B5) <br/>
+- [7 계층: 응용 계층 (5, 6 계층 포함)](https://velog.io/@bami/%EC%A0%9C-7-%EA%B3%84%EC%B8%B5-%EC%9D%91%EC%9A%A9-%EA%B3%84%EC%B8%B5) <br/>
+- [HTTP](https://velog.io/@bami/HTTP) <br/>
+- [HTTP의 발전](https://velog.io/@bami/HTTP%EC%9D%98-%EB%B0%9C%EC%A0%84#binary-framing-layer) <br/>
+
 ### 소프트웨어 공학
 - [소프트웨어 개발 프로세스](https://velog.io/@bami/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-7z3wby3l) <br/>
 - [소프트웨어 개발 - 계획](https://velog.io/@bami/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EA%B3%84%ED%9A%8D) <br/>

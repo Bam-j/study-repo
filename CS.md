@@ -83,6 +83,7 @@
 
 ### 정보 보안
 - [서비스 거부 공격 DoS, DDoS](https://velog.io/@bami/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B1%B0%EB%B6%80-%EA%B3%B5%EA%B2%A9-DoS-DDoS) <br/>
+- [스니핑, 스푸핑](https://velog.io/@bami/%EC%8A%A4%EB%8B%88%ED%95%91-%EC%8A%A4%ED%91%B8%ED%95%91) <br/>
 
 ---
 

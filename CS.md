@@ -65,6 +65,7 @@
 ### 디지털 논리회로
 - [디지털과 아날로그](https://velog.io/@bami/%EB%94%94%EC%A7%80%ED%84%B8%EA%B3%BC-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8) <br/>
 - [2진수, 8진수, 10진수, 16진수](https://velog.io/@bami/2%EC%A7%84%EC%88%98-8%EC%A7%84%EC%88%98-10%EC%A7%84%EC%88%98-16%EC%A7%84%EC%88%98)<br/>
+- [디지털 코드](https://velog.io/@bami/%EB%94%94%EC%A7%80%ED%84%B8-%EC%BD%94%EB%93%9C) <br/>
 
 ### 디자인 패턴
 - [디자인 패턴](https://velog.io/@bami/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) <br/>

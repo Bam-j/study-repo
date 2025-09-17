@@ -68,6 +68,7 @@
 - [디지털 코드](https://velog.io/@bami/%EB%94%94%EC%A7%80%ED%84%B8-%EC%BD%94%EB%93%9C) <br/>
 - [논리 게이트](https://velog.io/@bami/%EB%85%BC%EB%A6%AC-%EA%B2%8C%EC%9D%B4%ED%8A%B8) <br/>
 - [불 대수](https://velog.io/@bami/%EB%B6%88-%EB%8C%80%EC%88%98) <br/>
+- [카르노 맵](https://velog.io/@bami/%EC%B9%B4%EB%A5%B4%EB%85%B8-%EB%A7%B5) <br/>
 
 ### 디자인 패턴
 - [디자인 패턴](https://velog.io/@bami/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) <br/>

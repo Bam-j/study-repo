@@ -105,6 +105,7 @@
 - [카르노 맵](https://velog.io/@bami/%EC%B9%B4%EB%A5%B4%EB%85%B8-%EB%A7%B5) <br/>
 - [조합논리회로 - 가산기, 비교기](https://velog.io/@bami/%EC%A1%B0%ED%95%A9%EB%85%BC%EB%A6%AC%ED%9A%8C%EB%A1%9C-%EA%B0%80%EC%82%B0%EA%B8%B0-%EB%B9%84%EA%B5%90%EA%B8%B0) <br/>
 - [조합논리회로 - 디코더, 인코더](https://velog.io/@bami/%EC%A1%B0%ED%95%A9%EB%85%BC%EB%A6%AC%ED%9A%8C%EB%A1%9C-%EB%94%94%EC%BD%94%EB%8D%94-%EC%9D%B8%EC%BD%94%EB%8D%94) <br/>
+- [조합논리회로 - 멀티플렉서](https://velog.io/@bami/%EC%A1%B0%ED%95%A9%EB%85%BC%EB%A6%AC%ED%9A%8C%EB%A1%9C-%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%89%EC%84%9C) <br/>
 
 ### 디자인 패턴
 - [디자인 패턴](https://velog.io/@bami/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) <br/>

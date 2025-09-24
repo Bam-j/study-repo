@@ -108,7 +108,6 @@
 - [www](https://velog.io/@bami/www) <br/>
 - [웹 표준](https://velog.io/@bami/%EC%9B%B9-%ED%91%9C%EC%A4%80-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) <br/>
 - [웹 접근성](https://velog.io/@bami/%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1) <br/>
-- [POSTMAN](https://velog.io/@bami/Postman-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) <br/>
 
 ---
 
@@ -120,6 +119,7 @@
 - [클라우드 컴퓨팅](https://velog.io/@bami/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85) <br>
 - [부동소수점](https://velog.io/@bami/%EB%B6%80%EB%8F%99%EC%86%8C%EC%88%98%EC%A0%90-%ED%91%9C%ED%98%84)<br/>
 - [Linux 명령어 모음](https://velog.io/@bami/Linux-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C) <br/>
+- [POSTMAN](https://velog.io/@bami/Postman-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) <br/>
 
 ---
 

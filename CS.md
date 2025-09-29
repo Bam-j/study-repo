@@ -75,6 +75,7 @@
 - [플립플롭](https://velog.io/@bami/%ED%94%8C%EB%A6%BD%ED%94%8C%EB%A1%AD) <br/>
 - [동기 순서논리회로 해석](https://velog.io/@bami/%EB%8F%99%EA%B8%B0-%EC%88%9C%EC%84%9C%EB%85%BC%EB%A6%AC%ED%9A%8C%EB%A1%9C) <br/>
 - [동기 순서논리회로 설계](https://velog.io/@bami/%EB%8F%99%EA%B8%B0-%EC%88%9C%EC%84%9C%EB%85%BC%EB%A6%AC%ED%9A%8C%EB%A1%9C-%EC%84%A4%EA%B3%84) <br/>
+- [카운터](https://velog.io/@bami/%EC%B9%B4%EC%9A%B4%ED%84%B0) <br/>
 
 ### 디자인 패턴
 - [디자인 패턴](https://velog.io/@bami/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) <br/>

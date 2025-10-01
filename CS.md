@@ -78,6 +78,9 @@
 - [카운터](https://velog.io/@bami/%EC%B9%B4%EC%9A%B4%ED%84%B0) <br/>
 - [레지스터](https://velog.io/@bami/%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0) <br/>
 
+### 컴퓨터 구조
+- [컴퓨터 구조](https://velog.io/@bami/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0) <br/>
+
 ### 디자인 패턴
 - [디자인 패턴](https://velog.io/@bami/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) <br/>
 - [옵저버 패턴](https://velog.io/@bami/%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4-Observer-Pattern) <br/>

@@ -31,4 +31,4 @@
 <hr/>
 
 ## [etc.]
-### - [코딩테스트 풀이(노션 링크)](https://glow-dryer-c98.notion.site/42dd0401cfbb4b8a996a1fe27df49270) <br/>
+### - [코딩테스트 문제 풀이 (Notion)](https://glow-dryer-c98.notion.site/42dd0401cfbb4b8a996a1fe27df49270) <br/>

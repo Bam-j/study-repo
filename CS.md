@@ -83,6 +83,7 @@
 - [중앙처리장치 - 레지스터](https://velog.io/@bami/%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%84%B0) <br/>
 - [중앙처리장치 - 인터럽트](https://velog.io/@bami/%EC%A4%91%EC%95%99%EC%B2%98%EB%A6%AC%EC%9E%A5%EC%B9%98-%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8) <br/>
 - [연산기 - 논리 연산, 시프트](https://velog.io/@bami/%EC%97%B0%EC%82%B0%EA%B8%B0-%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0-%EC%8B%9C%ED%94%84%ED%8A%B8) <br/>
+- [연산기 - 정수 산술 연산](https://velog.io/@bami/%EC%97%B0%EC%82%B0%EA%B8%B0-%EC%A0%95%EC%88%98-%EC%82%B0%EC%88%A0-%EC%97%B0%EC%82%B0) <br/>
 
 ### 디자인 패턴
 - [디자인 패턴](https://velog.io/@bami/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) <br/>

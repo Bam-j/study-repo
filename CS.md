@@ -88,6 +88,7 @@
 - [명령어 집합 - 명령어 특성과 오퍼랜드](https://velog.io/@bami/%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A7%91%ED%95%A9-%EB%AA%85%EB%A0%B9%EC%96%B4%EC%9D%98-%ED%8A%B9%EC%84%B1%EA%B3%BC-%EC%98%A4%ED%8D%BC%EB%9E%9C%EB%93%9C) <br/>
 - [명령어 집합 - 주소지정방식과 오퍼랜드 저장](https://velog.io/@bami/%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A7%91%ED%95%A9-%EC%A3%BC%EC%86%8C%EC%A7%80%EC%A0%95%EB%B0%A9%EC%8B%9D-%EC%98%A4%ED%8D%BC%EB%9E%9C%EB%93%9C-%EC%A0%80%EC%9E%A5) <br/>
 - [명령어 집합 - 명령어 종류](https://velog.io/@bami/%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A7%91%ED%95%A9-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A2%85%EB%A5%98) <br/>
+- [제어장치](https://velog.io/@bami/%EC%A0%9C%EC%96%B4%EC%9E%A5%EC%B9%98-%EA%B8%B0%EB%8A%A5%EA%B3%BC-%EC%A2%85%EB%A5%98) <br/>
 
 ### 디자인 패턴
 - [디자인 패턴](https://velog.io/@bami/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) <br/>

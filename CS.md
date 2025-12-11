@@ -90,6 +90,7 @@
 - [명령어 집합 - 명령어 종류](https://velog.io/@bami/%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A7%91%ED%95%A9-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A2%85%EB%A5%98) <br/>
 - [제어장치](https://velog.io/@bami/%EC%A0%9C%EC%96%B4%EC%9E%A5%EC%B9%98-%EA%B8%B0%EB%8A%A5%EA%B3%BC-%EC%A2%85%EB%A5%98) <br/>
 - [기억장치 - 기억장치 특성](https://velog.io/@bami/%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98-%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98-%ED%8A%B9%EC%84%B1) <br/>
+- [기억장치 - 반도체 기억장치](https://velog.io/@bami/%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98) <br/>
 
 ### 디자인 패턴
 - [디자인 패턴](https://velog.io/@bami/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) <br/>

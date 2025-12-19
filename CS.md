@@ -93,6 +93,7 @@
 - [기억장치 - 반도체 기억장치](https://velog.io/@bami/%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98-%EB%B0%98%EB%8F%84%EC%B2%B4-%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98) <br/>
 - [기억장치 - 캐시 기억장치](https://velog.io/@bami/%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98-%EC%BA%90%EC%8B%9C-%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98) <br/>
 - [입출력 - 입출력장치](https://velog.io/@bami/%EC%9E%85%EC%B6%9C%EB%A0%A5) <br/>
+- [입출력 - 입출력 방법](https://velog.io/@bami/%EC%9E%85%EC%B6%9C%EB%A0%A5-%EC%9E%85%EC%B6%9C%EB%A0%A5-%EB%B0%A9%EB%B2%95) <br/>
 
 ### 디자인 패턴
 - [디자인 패턴](https://velog.io/@bami/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4) <br/>

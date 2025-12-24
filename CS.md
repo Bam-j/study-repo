@@ -116,6 +116,7 @@
 - [스니핑, 스푸핑](https://velog.io/@bami/%EC%8A%A4%EB%8B%88%ED%95%91-%EC%8A%A4%ED%91%B8%ED%95%91) <br/>
 - [웹 취약점](https://velog.io/@bami/%EC%9B%B9-%EC%B7%A8%EC%95%BD%EC%A0%90) <br/>
 - [악성 코드](https://velog.io/@bami/%EC%95%85%EC%84%B1-%EC%BD%94%EB%93%9C) <br/>
+- [암호 - 대칭, 비대칭, 해시](https://velog.io/@bami/%EC%95%94%ED%98%B8-%EB%8C%80%EC%B9%AD-%EB%B9%84%EB%8C%80%EC%B9%AD-%ED%95%B4%EC%8B%9C) <br/>
 
 ---
 

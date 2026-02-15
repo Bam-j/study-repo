@@ -28,6 +28,7 @@
 - [RedirectView, RedirectAttribute](https://velog.io/@bami/Spring-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC%EC%97%90%EC%84%9C-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EA%B0%80-%ED%8F%AC%ED%95%A8%EB%90%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-Redirect%ED%95%98%EA%B8%B0) <br/>
 - [Swagger 문서화](https://velog.io/@bami/Swagger%EB%A1%9C-REST-API-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EA%B8%B0) <br/>
 - [Spring MVC](https://velog.io/@bami/Spring-MVC) <br/>
+- [Controller](https://velog.io/@bami/Controller) <br/>
 
 <hr>
 

@@ -134,6 +134,7 @@
 - [www](https://velog.io/@bami/www) <br/>
 - [웹 표준](https://velog.io/@bami/%EC%9B%B9-%ED%91%9C%EC%A4%80-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) <br/>
 - [웹 접근성](https://velog.io/@bami/%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1) <br/>
+- [REST & REST API](https://velog.io/@bami/REST) <br/>
 
 ---
 

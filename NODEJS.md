@@ -15,6 +15,7 @@
 2-2. [HTTP 모듈로 첫 서버 열기](https://velog.io/@bami/Node.js-%EC%B2%AB-%EC%84%9C%EB%B2%84%EC%99%80-Hello-world) <br/>
 2-3. [쿠키와 세션](https://velog.io/@bami/%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98) <br/>
 2-4. [쿠키 만들기](https://velog.io/@bami/Node.js-%EC%BF%A0%ED%82%A4) <br/>
+2-5. [REST API](https://velog.io/@bami/REST-API) <br/>
 
 ## 3. package.json과 npm
 3-1. [JSON](https://velog.io/@bami/JSON) <br/>

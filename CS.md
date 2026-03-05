@@ -11,6 +11,7 @@
 - [인터프리터 방식과 컴파일러 방식 비교](https://velog.io/@bami/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-%EB%B0%A9%EC%8B%9D%EA%B3%BC-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EB%B0%A9%EC%8B%9D) <br/>
 - [객체지향 프로그래밍](https://velog.io/@bami/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <br/>
 - [SOLID 원칙](https://velog.io/@bami/SOLID-%EC%9B%90%EC%B9%99) <br/>
+- [계층형 아키텍처 구조](https://velog.io/@bami/%EA%B3%84%EC%B8%B5%ED%98%95-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%EC%A1%B0) <br/>
 
 ### 데이터 통신
 - [네트워크 개요](https://velog.io/@bami/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EC%9A%94#%ED%8C%A8%ED%82%B7) <br/>
